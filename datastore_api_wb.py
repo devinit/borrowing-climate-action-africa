@@ -92,7 +92,8 @@ au_country_map = {
 
 transaction_type_map = {
     '3': 'Disbursement',
-    '4': 'Expenditure'
+    '4': 'Expenditure',
+    '5': 'Interest Payment',
 }
 
 
@@ -127,7 +128,7 @@ def main():
             url = (
                 'https://api.iatistandard.org/datastore/transaction/select'
                 '?q=(reporting_org_ref:"44000" AND '
-                'transaction_transaction_type_code:("3" OR "4") AND '
+                'transaction_transaction_type_code:("3" OR "4" OR "5") AND '
                 'transaction_finance_type_code:4* AND '
                 'sector_code:("000081" OR "000811" OR "000812"))'
                 '&sort=id asc'
