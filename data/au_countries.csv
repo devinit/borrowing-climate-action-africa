@@ -1,56 +1,56 @@
-country,code
-Algeria,DZ
-Angola,AO
-Benin,BJ
-Botswana,BW
-Burkina Faso,BF
-Burundi,BI
-Cameroon,CM
-Cape Verde,CV
-Central African Republic,CF
-Chad,TD
-Comoros,KM
-Democratic Republic of the Congo,CD
-Republic of the Congo,CG
-Djibouti,DJ
-Egypt,EG
-Equatorial Guinea,GQ
-Eritrea,ER
-Eswatini,SZ
-Ethiopia,ET
-Gabon,GA
-Gambia,GM
-Ghana,GH
-Guinea,GN
-Guinea-Bissau,GW
-Ivory Coast,CI
-Kenya,KE
-Lesotho,LS
-Liberia,LR
-Libya,LY
-Madagascar,MG
-Malawi,MW
-Mali,ML
-Mauritania,MR
-Mauritius,MU
-Morocco,MA
-Mozambique,MZ
-Namibia,NA
-Niger,NE
-Nigeria,NG
-Rwanda,RW
-Sahrawi Arab Democratic Republic,EH
-São Tomé and Príncipe,ST
-Senegal,SN
-Seychelles,SC
-Sierra Leone,SL
-Somalia,SO
-South Africa,ZA
-South Sudan,SS
-Sudan,SD
-Tanzania,TZ
-Togo,TG
-Tunisia,TN
-Uganda,UG
-Zambia,ZM
-Zimbabwe,ZW
+code,iso3,country
+DZ,DZA,Algeria
+AO,AGO,Angola
+BJ,BEN,Benin
+BW,BWA,Botswana
+BF,BFA,Burkina Faso
+BI,BDI,Burundi
+CM,CMR,Cameroon
+CV,CPV,Cape Verde
+CF,CAF,Central African Republic
+TD,TCD,Chad
+KM,COM,Comoros
+CD,COD,Democratic Republic of the Congo
+CG,COG,Republic of the Congo
+DJ,DJI,Djibouti
+EG,EGY,Egypt
+GQ,GNQ,Equatorial Guinea
+ER,ERI,Eritrea
+SZ,SWZ,Eswatini
+ET,ETH,Ethiopia
+GA,GAB,Gabon
+GM,GMB,Gambia
+GH,GHA,Ghana
+GN,GIN,Guinea
+GW,GNB,Guinea-Bissau
+CI,CIV,Ivory Coast
+KE,KEN,Kenya
+LS,LSO,Lesotho
+LR,LBR,Liberia
+LY,LBY,Libya
+MG,MDG,Madagascar
+MW,MWI,Malawi
+ML,MLI,Mali
+MR,MRT,Mauritania
+MU,MUS,Mauritius
+MA,MAR,Morocco
+MZ,MOZ,Mozambique
+NA,NAM,Namibia
+NE,NER,Niger
+NG,NGA,Nigeria
+RW,RWA,Rwanda
+EH,ESH,Sahrawi Arab Democratic Republic
+ST,STP,São Tomé and Príncipe
+SN,SEN,Senegal
+SC,SYC,Seychelles
+SL,SLE,Sierra Leone
+SO,SOM,Somalia
+ZA,ZAF,South Africa
+SS,SSD,South Sudan
+SD,SDN,Sudan
+TZ,TZA,Tanzania
+TG,TGO,Togo
+TN,TUN,Tunisia
+UG,UGA,Uganda
+ZM,ZMB,Zambia
+ZW,ZWE,Zimbabwe
