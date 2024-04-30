@@ -80,7 +80,7 @@ class WeightedBertForSequenceClassification(BertForSequenceClassification):
                 loss_fct = CrossEntropyLoss(weight=self.class_weights, label_smoothing=self.label_smoothing)
                 loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
             elif self.config.problem_type == "multi_label_classification":
-                loss_fct = BCEWithLogitsLoss(weight=self.class_weights)
+                loss_fct = BCEWithLogitsLoss(pos_weight=self.class_weights)
                 loss = loss_fct(logits, labels)
         if not return_dict:
             output = (logits,) + outputs[2:]
@@ -100,7 +100,6 @@ data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
 
 unique_labels = [
-    # 'No climate objective',
     'Significant adaptation',
     'Principal adaptation',
     'Significant mitigation',
@@ -111,10 +110,6 @@ label2id = {id2label[i]: i for i in id2label.keys()}
 
 def adapt_mit_to_labels(example):
     labels = [0. for i in range(len(unique_labels))]
-    # if example['climate_adaptation'] == 0 and example['climate_mitigation'] == 0:
-    #     label = 'No climate objective'
-    #     label_id = label2id[label]
-    #     labels[label_id] = 1.
     if example['climate_adaptation'] == 1:
         label = 'Significant adaptation'
         label_id = label2id[label]
@@ -150,13 +145,14 @@ dataset = dataset.remove_columns(['unique_id', 'text', 'climate_adaptation', 'cl
 
 
 weight_list = list()
-total_rows = dataset['train'].num_rows + dataset['test'].num_rows
 print("Weights:")
 for label_pos in range(len(unique_labels)):
     label = unique_labels[label_pos]
-    filtered_dataset = dataset.filter(lambda example: example['labels'][label_pos] == 1.)
-    label_rows = filtered_dataset['train'].num_rows + filtered_dataset['test'].num_rows
-    label_weight = total_rows / label_rows
+    positive_filtered_dataset = dataset.filter(lambda example: example['labels'][label_pos] == 1.)
+    negative_filtered_dataset = dataset.filter(lambda example: example['labels'][label_pos] == 0.)
+    pos_rows = positive_filtered_dataset['train'].num_rows + positive_filtered_dataset['test'].num_rows
+    neg_rows = negative_filtered_dataset['train'].num_rows + negative_filtered_dataset['test'].num_rows
+    label_weight = neg_rows / pos_rows
     weight_list.append(label_weight)
     print("{}: {}".format(label, label_weight))
 
@@ -193,7 +189,7 @@ training_args = TrainingArguments(
     learning_rate=1e-6, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=8, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=8,
-    num_train_epochs=10,
+    num_train_epochs=100,
     weight_decay=0.01,
     evaluation_strategy='epoch',
     save_strategy='epoch',
