@@ -1,8 +1,8 @@
 # ! pip install datasets evaluate transformers accelerate huggingface_hub --quiet
 
-from huggingface_hub import login
+# from huggingface_hub import login
 
-login()
+# login()
 
 import types
 from datasets import load_dataset
