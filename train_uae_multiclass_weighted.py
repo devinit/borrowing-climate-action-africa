@@ -283,7 +283,7 @@ model.class_weights = weights
 
 training_args = TrainingArguments(
     'uae-climate-multi-classifier-weighted',
-    learning_rate=1e-5, # This can be tweaked depending on how loss progresses
+    learning_rate=1e-7, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=8, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=8,
     num_train_epochs=10 if DEV else 20,
