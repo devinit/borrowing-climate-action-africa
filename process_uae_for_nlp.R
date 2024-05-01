@@ -22,7 +22,8 @@ stopifnot({
 textual_cols_for_classification = c(
   "project_title",
   "short_description",
-  "long_description"
+  "long_description",
+  "purpose_name"
 )
 
 dat = dat %>%

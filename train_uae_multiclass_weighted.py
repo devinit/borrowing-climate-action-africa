@@ -1,8 +1,8 @@
 # ! pip install datasets evaluate transformers accelerate huggingface_hub --quiet
 
-# from huggingface_hub import login
+from huggingface_hub import login
 
-# login()
+login()
 
 import types
 from datasets import load_dataset
@@ -21,6 +21,9 @@ import evaluate
 import numpy as np
 
 from typing import Optional, Tuple, Union
+
+
+DEV = False
 
 
 def weighted_forward_bert(
@@ -213,12 +216,26 @@ def adapt_mit_to_labels(example):
 dataset = load_dataset("csv", data_files="data/uae_for_nlp.csv", split="train")
 dataset = dataset.map(adapt_mit_to_labels, num_proc=8)
 
-dataset = dataset.class_encode_column('class_labels').train_test_split(
-    test_size=0.1,
-    stratify_by_column="class_labels",
-    shuffle=True,
-    seed=42
-)
+if DEV:
+    dataset = dataset.class_encode_column('class_labels').train_test_split(
+        test_size=0.3,
+        stratify_by_column="class_labels",
+        shuffle=True,
+        seed=42
+    )
+    dataset = dataset['test'].train_test_split(
+        test_size=0.2,
+        stratify_by_column="class_labels",
+        shuffle=True,
+        seed=42
+    )
+else:
+    dataset = dataset.class_encode_column('class_labels').train_test_split(
+        test_size=0.1,
+        stratify_by_column="class_labels",
+        shuffle=True,
+        seed=42
+    )
 dataset = dataset.remove_columns(['unique_id', 'text', 'climate_adaptation', 'climate_mitigation', 'class_labels'])
 
 
@@ -258,23 +275,24 @@ model = AutoModelForSequenceClassification.from_pretrained(
     id2label=id2label,
     label2id=label2id, 
     problem_type="multi_label_classification",
-    classifier_dropout=0.1
+    classifier_dropout=0.2 # distilbert
+    # seq_classif_dropout=0.2 # bert
 )
 model.forward = types.MethodType(weighted_forward_bert, model)
 model.class_weights = weights
 
 training_args = TrainingArguments(
     'uae-climate-multi-classifier-weighted',
-    learning_rate=1e-6, # This can be tweaked depending on how loss progresses
+    learning_rate=1e-5, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=8, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=8,
-    num_train_epochs=20,
+    num_train_epochs=10 if DEV else 20,
     weight_decay=0.01,
     evaluation_strategy='epoch',
     save_strategy='epoch',
     logging_strategy='epoch',
     load_best_model_at_end=True,
-    push_to_hub=True,
+    push_to_hub=not DEV,
     save_total_limit=5,
 )
 
@@ -289,4 +307,5 @@ trainer = Trainer(
 )
 
 trainer.train()
-trainer.push_to_hub()
+if not DEV:
+    trainer.push_to_hub()
