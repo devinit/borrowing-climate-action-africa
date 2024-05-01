@@ -115,6 +115,9 @@ def adapt_mit_to_labels(example):
         label_id = label2id[label]
         labels[label_id] = 1.
     if example['climate_adaptation'] == 2:
+        label = 'Significant adaptation'
+        label_id = label2id[label]
+        labels[label_id] = 1.
         label = 'Principal adaptation'
         label_id = label2id[label]
         labels[label_id] = 1.
@@ -123,6 +126,9 @@ def adapt_mit_to_labels(example):
         label_id = label2id[label]
         labels[label_id] = 1.
     if example['climate_mitigation'] == 2:
+        label = 'Significant mitigation'
+        label_id = label2id[label]
+        labels[label_id] = 1.
         label = 'Principal mitigation'
         label_id = label2id[label]
         labels[label_id] = 1.
@@ -189,7 +195,7 @@ training_args = TrainingArguments(
     learning_rate=1e-6, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=8, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=8,
-    num_train_epochs=100,
+    num_train_epochs=10,
     weight_decay=0.01,
     evaluation_strategy='epoch',
     save_strategy='epoch',
