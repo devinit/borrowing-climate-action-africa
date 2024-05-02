@@ -161,3 +161,4 @@ cython_debug/
 
 large_data/*
 uae-climate-multi-classifier-weighted
+unrelated_data/*

@@ -175,39 +175,26 @@ data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
 
 unique_labels = [
-    'Significant adaptation',
-    'Principal adaptation',
-    'Significant mitigation',
-    'Principal mitigation'
+    'Significant climate',
+    'Principal climate',
 ]
 id2label = {i: label for i, label in enumerate(unique_labels)}
 label2id = {id2label[i]: i for i in id2label.keys()}
 
 def adapt_mit_to_labels(example):
     labels = [0. for i in range(len(unique_labels))]
-    if example['climate_adaptation'] == 1:
-        label = 'Significant adaptation'
+    if example['climate_adaptation'] == 2 or example['climate_mitigation'] == 2:
+        label = 'Significant climate'
         label_id = label2id[label]
         labels[label_id] = 1.
-    if example['climate_adaptation'] == 2:
-        label = 'Significant adaptation'
+        label = 'Principal climate'
         label_id = label2id[label]
         labels[label_id] = 1.
-        label = 'Principal adaptation'
+    elif example['climate_adaptation'] == 1 or example['climate_mitigation'] == 1:
+        label = 'Significant climate'
         label_id = label2id[label]
         labels[label_id] = 1.
-    if example['climate_mitigation'] == 1:
-        label = 'Significant mitigation'
-        label_id = label2id[label]
-        labels[label_id] = 1.
-    if example['climate_mitigation'] == 2:
-        label = 'Significant mitigation'
-        label_id = label2id[label]
-        labels[label_id] = 1.
-        label = 'Principal mitigation'
-        label_id = label2id[label]
-        labels[label_id] = 1.
-    
+
     example = tokenizer(example['text'], truncation=True)
     example['labels'] = labels
     example['class_labels'] = max(labels)
@@ -283,8 +270,8 @@ model.class_weights = weights
 
 training_args = TrainingArguments(
     'uae-climate-multi-classifier-weighted',
-    learning_rate=1e-7, # This can be tweaked depending on how loss progresses
-    per_device_train_batch_size=8, # These should be tweaked to match GPU VRAM
+    learning_rate=1e-6 if not DEV else 1e-5,
+    per_device_train_batch_size=8,
     per_device_eval_batch_size=8,
     num_train_epochs=10 if DEV else 20,
     weight_decay=0.01,
