@@ -1,0 +1,33 @@
+=IF(
+    AND(BZ2=2,BY2=2),
+    "Principal adaptation and principal mitigation",
+    IF(
+        AND(BZ2=2,BY2=1),
+        "Principal adaptation and significant mitigation",
+        IF(
+            AND(BZ2=2,OR(BY2="",BY2=0)),
+            "Principal adaptation",
+            IF(
+                AND(BZ2=1,BY2=2),
+                "Significant adaptation and principal mitigation",
+                IF(
+                    AND(BZ2=1,BY2=1),
+                    "Significant adaptation and significant mitigation",
+                    IF(
+                        AND(BZ2=1,OR(BY2="",BY2=0)),
+                        "Significant adaptation",
+                        IF(
+                            AND(OR(BZ2="",BZ2=0),BY2=2),
+                            "Principal mitigation",
+                            IF(
+                                AND(OR(BZ2="",BZ2=0),BY2=1),
+                                "Significant mitigation",
+                                ""
+                            )
+                        )
+                    )
+                )
+            )
+        )
+    )
+)

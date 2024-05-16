@@ -47,7 +47,7 @@ def inference(text):
 
 
 def main():
-    res = inference("Renewable energy projects RENEWABLE ENERGY PROJECTS Renewable energy projects Energy generation, renewable sources - multiple technologies")
+    res = inference("the small Dams project in Samandini THE SMALL DAMS PROJECT IN SAMANDINI the small Dams project in Samandini River basins development")
     print(res)
 
 if __name__ == '__main__':
