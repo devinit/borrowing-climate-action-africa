@@ -175,6 +175,8 @@ def preprocess_function(example):
         label = "Climate adaptation - significant objective"
         labels[label2id[label]] = 1.
     elif adaptation_label >= 2:
+        label = "Climate adaptation - significant objective"
+        labels[label2id[label]] = 1.
         label = "Climate adaptation - principal objective"
         labels[label2id[label]] = 1.
 
@@ -185,6 +187,8 @@ def preprocess_function(example):
         label = "Climate mitigation - significant objective"
         labels[label2id[label]] = 1.
     elif mitigation_label >= 2:
+        label = "Climate mitigation - significant objective"
+        labels[label2id[label]] = 1.
         label = "Climate mitigation - principal objective"
         labels[label2id[label]] = 1.
 
@@ -235,8 +239,8 @@ model.forward = types.MethodType(weighted_forward_bert, model)
 model.class_weights = weights
 
 training_args = TrainingArguments(
-    'iati-climate-multi-classifier-weighted',
-    learning_rate=1e-6, # This can be tweaked depending on how loss progresses
+    'iati-climate-multi-classifier-weighted2',
+    learning_rate=5e-6, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=24, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=24,
     num_train_epochs=5,
