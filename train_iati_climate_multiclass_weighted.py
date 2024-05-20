@@ -240,7 +240,7 @@ model.class_weights = weights
 
 training_args = TrainingArguments(
     'iati-climate-multi-classifier-weighted2',
-    learning_rate=5e-6, # This can be tweaked depending on how loss progresses
+    learning_rate=2e-6, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=24, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=24,
     num_train_epochs=5,
