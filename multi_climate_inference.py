@@ -51,10 +51,8 @@ def map_columns(example):
     text = " ".join(textual_data_list)
 
     predictions = {
-        "Climate adaptation - not targeted": [False, 0],
         "Climate adaptation - significant objective": [False, 0],
         "Climate adaptation - principal objective": [False, 0],
-        "Climate mitigation - not targeted": [False, 0],
         "Climate mitigation - significant objective": [False, 0],
         "Climate mitigation - principal objective": [False, 0]
     }
@@ -63,28 +61,20 @@ def map_columns(example):
     for text_chunk in text_chunks:
         inputs = TOKENIZER(text_chunk, return_tensors="pt", truncation=True).to(DEVICE)
         model_pred, model_conf = inference(MODEL, inputs)
-        predictions['Climate adaptation - not targeted'][0] = predictions['Climate adaptation - not targeted'][0] or model_pred[0]
-        predictions['Climate adaptation - not targeted'][1] = max(predictions['Climate adaptation - not targeted'][1], model_conf[0])
         predictions['Climate adaptation - significant objective'][0] = predictions['Climate adaptation - significant objective'][0] or model_pred[1]
         predictions['Climate adaptation - significant objective'][1] = max(predictions['Climate adaptation - significant objective'][1], model_conf[1])
         predictions['Climate adaptation - principal objective'][0] = predictions['Climate adaptation - principal objective'][0] or model_pred[2]
         predictions['Climate adaptation - principal objective'][1] = max(predictions['Climate adaptation - principal objective'][1], model_conf[2])
-        predictions['Climate mitigation - not targeted'][0] = predictions['Climate mitigation - not targeted'][0] or model_pred[3]
-        predictions['Climate mitigation - not targeted'][1] = max(predictions['Climate mitigation - not targeted'][1], model_conf[3])
-        predictions['Climate mitigation - significant objective'][0] = predictions['Climate mitigation - significant objective'][0] or model_pred[4]
-        predictions['Climate mitigation - significant objective'][1] = max(predictions['Climate mitigation - significant objective'][1], model_conf[4])
-        predictions['Climate mitigation - principal objective'][0] = predictions['Climate mitigation - principal objective'][0] or model_pred[5]
-        predictions['Climate mitigation - principal objective'][1] = max(predictions['Climate mitigation - principal objective'][1], model_conf[5])
+        predictions['Climate mitigation - significant objective'][0] = predictions['Climate mitigation - significant objective'][0] or model_pred[3]
+        predictions['Climate mitigation - significant objective'][1] = max(predictions['Climate mitigation - significant objective'][1], model_conf[3])
+        predictions['Climate mitigation - principal objective'][0] = predictions['Climate mitigation - principal objective'][0] or model_pred[4]
+        predictions['Climate mitigation - principal objective'][1] = max(predictions['Climate mitigation - principal objective'][1], model_conf[4])
 
 
-    example['Climate adaptation - not targeted predicted'] = predictions['Climate adaptation - not targeted'][0]
-    example['Climate adaptation - not targeted confidence'] = predictions['Climate adaptation - not targeted'][1]
     example['Climate adaptation - significant objective predicted'] = predictions['Climate adaptation - significant objective'][0]
     example['Climate adaptation - significant objective confidence'] = predictions['Climate adaptation - significant objective'][1]
     example['Climate adaptation - principal objective predicted'] = predictions['Climate adaptation - principal objective'][0]
     example['Climate adaptation - principal objective confidence'] = predictions['Climate adaptation - principal objective'][1]
-    example['Climate mitigation - not targeted predicted'] = predictions['Climate mitigation - not targeted'][0]
-    example['Climate mitigation - not targeted confidence'] = predictions['Climate mitigation - not targeted'][1]
     example['Climate mitigation - significant objective predicted'] = predictions['Climate mitigation - significant objective'][0]
     example['Climate mitigation - significant objective confidence'] = predictions['Climate mitigation - significant objective'][1]
     example['Climate mitigation - principal objective predicted'] = predictions['Climate mitigation - principal objective'][0]
