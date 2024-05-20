@@ -154,10 +154,8 @@ dataset = dataset.class_encode_column('class_labels').train_test_split(
 dataset.remove_columns("class_labels")
 
 unique_labels = [
-    "Climate adaptation - not targeted",
     "Climate adaptation - significant objective",
     "Climate adaptation - principal objective",
-    "Climate mitigation - not targeted",
     "Climate mitigation - significant objective",
     "Climate mitigation - principal objective"
 ]
@@ -168,10 +166,7 @@ def preprocess_function(example):
     adaptation_label = example['climate_adaptation_sig']
     mitigation_label = example['climate_mitigation_sig']
     labels = [0. for i in range(len(unique_labels))]
-    if adaptation_label == 0:
-        label = "Climate adaptation - not targeted"
-        labels[label2id[label]] = 1.
-    elif adaptation_label == 1:
+    if adaptation_label == 1:
         label = "Climate adaptation - significant objective"
         labels[label2id[label]] = 1.
     elif adaptation_label >= 2:
@@ -180,10 +175,7 @@ def preprocess_function(example):
         label = "Climate adaptation - principal objective"
         labels[label2id[label]] = 1.
 
-    if mitigation_label == 0:
-        label = "Climate mitigation - not targeted"
-        labels[label2id[label]] = 1.
-    elif mitigation_label == 1:
+    if mitigation_label == 1:
         label = "Climate mitigation - significant objective"
         labels[label2id[label]] = 1.
     elif mitigation_label >= 2:
@@ -243,7 +235,7 @@ training_args = TrainingArguments(
     learning_rate=2e-6, # This can be tweaked depending on how loss progresses
     per_device_train_batch_size=24, # These should be tweaked to match GPU VRAM
     per_device_eval_batch_size=24,
-    num_train_epochs=5,
+    num_train_epochs=10,
     weight_decay=0.01,
     evaluation_strategy='epoch',
     save_strategy='epoch',
