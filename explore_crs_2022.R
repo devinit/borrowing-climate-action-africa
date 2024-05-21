@@ -67,6 +67,10 @@ crs$`Climate label` = ifelse(
   )
 )
 
+check_a = subset(crs, `Climate adaptation - principal objective confidence` > 0.9 & !`Climate keyword match`)
+check_m = subset(crs, `Climate mitigation - principal objective confidence` > 0.9 & !`Climate keyword match`)
+
+
 keep= c(original_names,
         "humanitarian",
         "Crisis finance identified",
