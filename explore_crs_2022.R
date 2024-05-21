@@ -72,36 +72,13 @@ check_m = subset(crs, `Climate mitigation - principal objective confidence` > 0.
 
 
 keep= c(original_names,
-        "humanitarian",
-        "Crisis finance identified",
-        "Crisis finance eligible",
-        "Crisis finance determination",
-        "Crisis finance keyword match",
-        "Crisis finance predicted ML",
-        "Crisis finance confidence ML",
-        "PAF determination",
-        "PAF keyword match",
-        "PAF predicted ML",
-        "PAF confidence ML",
-        "AA determination",
-        "AA keyword match",
-        "AA predicted ML",
-        "AA confidence ML",
-        "Direct predicted ML",
-        "Direct confidence ML",
-        "Indirect predicted ML",
-        "Indirect confidence ML",
-        "Part predicted ML",
-        "Part confidence ML"
+        "Principal climate adaptation",
+        "Principal climate mitigation",
+        "Significant climate adaptation",
+        "Significant climate mitigation",
+        "Climate label"
 )
-
-crs = crs[order(
-  crs$`Crisis finance determination`=="No",
-  crs$`Crisis finance determination`=="Review",
-  crs$`Crisis finance determination`=="Yes",
-  -crs$`Crisis finance confidence ML`
-),keep]
 
 
 fwrite(crs,
-       paste0("large_data/crs_",YEAR,"_cdp_automated.csv"))
+       paste0("large_data/crs_",YEAR,"_automated.csv"))
