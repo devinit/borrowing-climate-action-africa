@@ -52,10 +52,10 @@ crs$`Significant climate mitigation`[which(
 )] = T
 
 crs$`Climate label` = ifelse(
-  (crs$`Principal climate adaptation` & crs$`Principal climate mitigation`) |
-    (crs$`Significant climate adaptation` & crs$`Principal climate mitigation`) |
-    (crs$`Principal climate adaptation` & crs$`Significant climate mitigation`),
-  "Both",
+  (crs$`Principal climate adaptation` & crs$`Principal climate mitigation`) 
+  # | (crs$`Significant climate adaptation` & crs$`Principal climate mitigation`)
+  # | (crs$`Principal climate adaptation` & crs$`Significant climate mitigation`)
+  ,"Both",
   ifelse(
     crs$`Principal climate adaptation`,
     "Adaptation",
@@ -67,11 +67,18 @@ crs$`Climate label` = ifelse(
   )
 )
 
+describe(crs$`Climate label`)
+
 check_a = subset(crs, `Climate adaptation - principal objective confidence` > 0.9 & !`Climate keyword match`)
 check_m = subset(crs, `Climate mitigation - principal objective confidence` > 0.9 & !`Climate keyword match`)
 
+check_rev = subset(crs, 
+                   `Climate adaptation - principal objective confidence` < 0.1 &
+                     `Climate mitigation - principal objective confidence` < 0.1 &
+                     `Climate keyword match`
+                  )
 
-keep= c(original_names,
+keep = c(original_names,
         "Principal climate adaptation",
         "Principal climate mitigation",
         "Significant climate adaptation",
@@ -79,6 +86,7 @@ keep= c(original_names,
         "Climate label"
 )
 
+out_crs = subset(crs, `Climate label`!="None",select=keep)
 
-fwrite(crs,
-       paste0("large_data/crs_",YEAR,"_automated.csv"))
+fwrite(out_crs,
+       paste0("data/crs_",YEAR,"_automated.csv"))
