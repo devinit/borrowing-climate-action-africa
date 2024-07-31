@@ -1,0 +1,692 @@
+iati_identifier,transaction_number,title,date,transaction_type,finance_type,original_transaction_value,wb_sector_name,wb_sector_percentage,recipient_name,recipient_percentage,split_transaction_value
+44000-P165017,0,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,832724.0,Climate change,77.0,Rwanda,100.0,641197.48
+44000-P165017,0,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,832724.0,Gender,44.0,Rwanda,100.0,366398.56
+44000-P165017,0,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,832724.0,Climate adaptation,37.0,Rwanda,100.0,308107.88
+44000-P165017,0,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,832724.0,Climate mitigation,40.0,Rwanda,100.0,333089.60000000003
+44000-P112712,1,Second Emergency Demobilization and Reintegration Project,2012-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1324871.0,Gender,10.0,Rwanda,100.0,132487.1
+44000-P112712,2,Second Emergency Demobilization and Reintegration Project,2011-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1917919.0,Gender,10.0,Rwanda,100.0,191791.90000000002
+44000-P112712,3,Second Emergency Demobilization and Reintegration Project,2013-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,12353.0,Gender,10.0,Rwanda,100.0,1235.3000000000002
+44000-P175273,4,Access to Finance for Recovery and Resilience Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5085723.0,Gender,77.0,Rwanda,100.0,3916006.71
+44000-P175273,4,Access to Finance for Recovery and Resilience Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5085723.0,Climate change,6.0,Rwanda,100.0,305143.38
+44000-P175273,4,Access to Finance for Recovery and Resilience Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5085723.0,Climate adaptation,6.0,Rwanda,100.0,305143.38
+44000-P168551,5,Rwanda Quality Basic Education for Human Capital Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11203857.0,Gender,37.0,Rwanda,100.0,4145427.09
+44000-P168551,5,Rwanda Quality Basic Education for Human Capital Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11203857.0,Climate mitigation,5.0,Rwanda,100.0,560192.85
+44000-P168551,5,Rwanda Quality Basic Education for Human Capital Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11203857.0,Climate change,19.0,Rwanda,100.0,2128732.83
+44000-P168551,5,Rwanda Quality Basic Education for Human Capital Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11203857.0,Climate adaptation,15.0,Rwanda,100.0,1680578.55
+44000-P151279,6,Social Protection System Support,2015-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,66240910.0,Gender,4.0,Rwanda,100.0,2649636.4
+44000-P165017,7,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1258916.0,Climate change,77.0,Rwanda,100.0,969365.3200000001
+44000-P165017,7,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1258916.0,Gender,44.0,Rwanda,100.0,553923.04
+44000-P165017,7,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1258916.0,Climate adaptation,37.0,Rwanda,100.0,465798.92
+44000-P165017,7,Second Rwanda Urban Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1258916.0,Climate mitigation,40.0,Rwanda,100.0,503566.4
+44000-P165017,8,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1618740.0,Climate change,77.0,Rwanda,100.0,1246429.8
+44000-P165017,8,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1618740.0,Gender,44.0,Rwanda,100.0,712245.6
+44000-P165017,8,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1618740.0,Climate adaptation,37.0,Rwanda,100.0,598933.8
+44000-P165017,8,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1618740.0,Climate mitigation,40.0,Rwanda,100.0,647496.0
+44000-P165017,9,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1210502.0,Climate change,77.0,Rwanda,100.0,932086.54
+44000-P165017,9,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1210502.0,Gender,44.0,Rwanda,100.0,532620.88
+44000-P165017,9,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1210502.0,Climate adaptation,37.0,Rwanda,100.0,447885.74
+44000-P165017,9,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1210502.0,Climate mitigation,40.0,Rwanda,100.0,484200.80000000005
+44000-P165017,10,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,874057.0,Climate change,77.0,Rwanda,100.0,673023.89
+44000-P165017,10,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,874057.0,Gender,44.0,Rwanda,100.0,384585.08
+44000-P165017,10,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,874057.0,Climate adaptation,37.0,Rwanda,100.0,323401.08999999997
+44000-P165017,10,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,874057.0,Climate mitigation,40.0,Rwanda,100.0,349622.80000000005
+44000-P164130,11,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1873360.0,Climate change,25.0,Rwanda,100.0,468340.0
+44000-P164130,11,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1873360.0,Climate mitigation,5.0,Rwanda,100.0,93668.0
+44000-P164130,11,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1873360.0,Climate adaptation,20.0,Rwanda,100.0,374672.0
+44000-P164130,11,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1873360.0,Gender,30.0,Rwanda,100.0,562008.0
+44000-P112712,12,Second Emergency Demobilization and Reintegration Project,2015-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,41925.0,Gender,10.0,Rwanda,100.0,4192.5
+44000-P165017,13,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1184835.0,Climate change,77.0,Rwanda,100.0,912322.9500000001
+44000-P165017,13,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1184835.0,Gender,44.0,Rwanda,100.0,521327.4
+44000-P165017,13,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1184835.0,Climate adaptation,37.0,Rwanda,100.0,438388.95
+44000-P165017,13,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1184835.0,Climate mitigation,40.0,Rwanda,100.0,473934.0
+44000-P164807,14,Rwanda Public Finance Management Reform Project,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,261101.0,Gender,54.0,Rwanda,100.0,140994.54
+44000-P175273,15,Access to Finance for Recovery and Resilience Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,127249.0,Gender,77.0,Rwanda,100.0,97981.73
+44000-P175273,15,Access to Finance for Recovery and Resilience Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,127249.0,Climate change,6.0,Rwanda,100.0,7634.94
+44000-P175273,15,Access to Finance for Recovery and Resilience Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,127249.0,Climate adaptation,6.0,Rwanda,100.0,7634.94
+44000-P161876,16,Transformation of Agriculture Sector Program 4 Phase 2,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,24505464.0,Climate mitigation,15.0,Rwanda,100.0,3675819.6
+44000-P161876,16,Transformation of Agriculture Sector Program 4 Phase 2,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,24505464.0,Climate adaptation,16.0,Rwanda,100.0,3920874.24
+44000-P161876,16,Transformation of Agriculture Sector Program 4 Phase 2,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,24505464.0,Climate change,31.0,Rwanda,100.0,7596693.84
+44000-P112712,17,Second Emergency Demobilization and Reintegration Project,2013-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,419945.0,Gender,10.0,Rwanda,100.0,41994.5
+44000-P172594,18,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4600667.0,Climate change,38.0,Rwanda,100.0,1748253.46
+44000-P172594,18,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4600667.0,Climate mitigation,31.0,Rwanda,100.0,1426206.77
+44000-P172594,18,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4600667.0,Gender,63.0,Rwanda,100.0,2898420.21
+44000-P172594,18,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4600667.0,Climate adaptation,7.0,Rwanda,100.0,322046.69
+44000-P178161,19,Volcanoes Community Resilience Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate change,46.0,Rwanda,100.0,920000.0
+44000-P178161,19,Volcanoes Community Resilience Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate adaptation,31.0,Rwanda,100.0,620000.0
+44000-P178161,19,Volcanoes Community Resilience Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate mitigation,15.0,Rwanda,100.0,300000.0
+44000-P178161,19,Volcanoes Community Resilience Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Gender,33.0,Rwanda,100.0,660000.0
+44000-P164130,20,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952125.0,Climate change,25.0,Rwanda,100.0,238031.25
+44000-P164130,20,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952125.0,Climate mitigation,5.0,Rwanda,100.0,47606.25
+44000-P164130,20,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952125.0,Climate adaptation,20.0,Rwanda,100.0,190425.0
+44000-P164130,20,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952125.0,Gender,30.0,Rwanda,100.0,285637.5
+44000-P171462,21,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1995207.0,Climate change,43.0,Rwanda,100.0,857939.01
+44000-P171462,21,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1995207.0,Gender,87.0,Rwanda,100.0,1735830.09
+44000-P171462,21,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1995207.0,Climate mitigation,13.0,Rwanda,100.0,259376.91
+44000-P171462,21,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1995207.0,Climate adaptation,30.0,Rwanda,100.0,598562.1
+44000-P175273,22,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,215310.0,Gender,77.0,Rwanda,100.0,165788.7
+44000-P175273,22,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,215310.0,Climate change,6.0,Rwanda,100.0,12918.6
+44000-P175273,22,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,215310.0,Climate adaptation,6.0,Rwanda,100.0,12918.6
+44000-P160488,23,"Lake Victoria Transport Program - SOP1, Rwanda",2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,632423.0,Climate change,10.0,Rwanda,100.0,63242.3
+44000-P160488,23,"Lake Victoria Transport Program - SOP1, Rwanda",2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,632423.0,Climate adaptation,10.0,Rwanda,100.0,63242.3
+44000-P112712,24,Second Emergency Demobilization and Reintegration Project,2011-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,519483.0,Gender,10.0,Rwanda,100.0,51948.3
+44000-P160488,25,"Lake Victoria Transport Program - SOP1, Rwanda",2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1934216.0,Climate change,10.0,Rwanda,100.0,193421.6
+44000-P160488,25,"Lake Victoria Transport Program - SOP1, Rwanda",2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1934216.0,Climate adaptation,10.0,Rwanda,100.0,193421.6
+44000-P164130,26,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2521412.0,Climate change,25.0,Rwanda,100.0,630353.0
+44000-P164130,26,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2521412.0,Climate mitigation,5.0,Rwanda,100.0,126070.6
+44000-P164130,26,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2521412.0,Climate adaptation,20.0,Rwanda,100.0,504282.4
+44000-P164130,26,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2521412.0,Gender,30.0,Rwanda,100.0,756423.6
+44000-P165017,27,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1561101.0,Climate change,77.0,Rwanda,100.0,1202047.77
+44000-P165017,27,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1561101.0,Gender,44.0,Rwanda,100.0,686884.4400000001
+44000-P165017,27,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1561101.0,Climate adaptation,37.0,Rwanda,100.0,577607.37
+44000-P165017,27,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1561101.0,Climate mitigation,40.0,Rwanda,100.0,624440.4
+44000-P177492,28,Social Protection Transformation Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15507731.0,Climate change,12.0,Rwanda,100.0,1860927.72
+44000-P177492,28,Social Protection Transformation Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15507731.0,Climate adaptation,12.0,Rwanda,100.0,1860927.72
+44000-P177492,28,Social Protection Transformation Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15507731.0,Gender,22.0,Rwanda,100.0,3411700.82
+44000-P175273,29,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16572757.0,Gender,77.0,Rwanda,100.0,12761022.89
+44000-P175273,29,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16572757.0,Climate change,6.0,Rwanda,100.0,994365.4199999999
+44000-P175273,29,Access to Finance for Recovery and Resilience Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16572757.0,Climate adaptation,6.0,Rwanda,100.0,994365.4199999999
+44000-P165017,30,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2200000.0,Climate change,77.0,Rwanda,100.0,1694000.0
+44000-P165017,30,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2200000.0,Gender,44.0,Rwanda,100.0,968000.0
+44000-P165017,30,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2200000.0,Climate adaptation,37.0,Rwanda,100.0,814000.0
+44000-P165017,30,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2200000.0,Climate mitigation,40.0,Rwanda,100.0,880000.0
+44000-P162646,31,Strengthening Social Protection Project,2019-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3039962.0,Climate mitigation,10.0,Rwanda,100.0,303996.2
+44000-P162646,31,Strengthening Social Protection Project,2019-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3039962.0,Climate adaptation,18.0,Rwanda,100.0,547193.16
+44000-P162646,31,Strengthening Social Protection Project,2019-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3039962.0,Climate change,28.0,Rwanda,100.0,851189.3600000001
+44000-P162646,32,Strengthening Social Protection Project,2019-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9069463.0,Climate mitigation,10.0,Rwanda,100.0,906946.3
+44000-P162646,32,Strengthening Social Protection Project,2019-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9069463.0,Climate adaptation,18.0,Rwanda,100.0,1632503.3399999999
+44000-P162646,32,Strengthening Social Protection Project,2019-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9069463.0,Climate change,28.0,Rwanda,100.0,2539449.64
+44000-P112712,33,Second Emergency Demobilization and Reintegration Project,2013-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,251691.0,Gender,10.0,Rwanda,100.0,25169.100000000002
+44000-P162646,34,Strengthening Social Protection Project,2021-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4672433.0,Climate mitigation,10.0,Rwanda,100.0,467243.30000000005
+44000-P162646,34,Strengthening Social Protection Project,2021-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4672433.0,Climate adaptation,18.0,Rwanda,100.0,841037.94
+44000-P162646,34,Strengthening Social Protection Project,2021-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4672433.0,Climate change,28.0,Rwanda,100.0,1308281.2400000002
+44000-P165017,35,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1627001.0,Climate change,77.0,Rwanda,100.0,1252790.77
+44000-P165017,35,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1627001.0,Gender,44.0,Rwanda,100.0,715880.4400000001
+44000-P165017,35,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1627001.0,Climate adaptation,37.0,Rwanda,100.0,601990.37
+44000-P165017,35,Second Rwanda Urban Development Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1627001.0,Climate mitigation,40.0,Rwanda,100.0,650800.4
+44000-P148927,36,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,30833679.0,Climate mitigation,30.0,Rwanda,100.0,9250103.7
+44000-P148927,36,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,30833679.0,Climate adaptation,30.0,Rwanda,100.0,9250103.7
+44000-P148927,36,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,30833679.0,Climate change,60.0,Rwanda,100.0,18500207.4
+44000-P168551,37,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7985000.0,Gender,37.0,Rwanda,100.0,2954450.0
+44000-P168551,37,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7985000.0,Climate mitigation,5.0,Rwanda,100.0,399250.0
+44000-P168551,37,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7985000.0,Climate change,19.0,Rwanda,100.0,1517150.0
+44000-P168551,37,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7985000.0,Climate adaptation,15.0,Rwanda,100.0,1197750.0
+44000-P175273,38,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1092912.0,Gender,77.0,Rwanda,100.0,841542.24
+44000-P175273,38,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1092912.0,Climate change,6.0,Rwanda,100.0,65574.72
+44000-P175273,38,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1092912.0,Climate adaptation,6.0,Rwanda,100.0,65574.72
+44000-P165017,39,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,383594.0,Climate change,77.0,Rwanda,100.0,295367.38
+44000-P165017,39,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,383594.0,Gender,44.0,Rwanda,100.0,168781.36000000002
+44000-P165017,39,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,383594.0,Climate adaptation,37.0,Rwanda,100.0,141929.78
+44000-P165017,39,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,383594.0,Climate mitigation,40.0,Rwanda,100.0,153437.6
+44000-P126877,40,RW-Support to Social Protection System,2012-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,39524274.0,Climate change,14.0,Rwanda,100.0,5533398.36
+44000-P126877,40,RW-Support to Social Protection System,2012-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,39524274.0,Climate adaptation,14.0,Rwanda,100.0,5533398.36
+44000-P165017,41,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,931376.0,Climate change,77.0,Rwanda,100.0,717159.52
+44000-P165017,41,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,931376.0,Gender,44.0,Rwanda,100.0,409805.44
+44000-P165017,41,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,931376.0,Climate adaptation,37.0,Rwanda,100.0,344609.12
+44000-P165017,41,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,931376.0,Climate mitigation,40.0,Rwanda,100.0,372550.4
+44000-P162646,42,Strengthening Social Protection Project,2019-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11296678.0,Climate mitigation,10.0,Rwanda,100.0,1129667.8
+44000-P162646,42,Strengthening Social Protection Project,2019-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11296678.0,Climate adaptation,18.0,Rwanda,100.0,2033402.04
+44000-P162646,42,Strengthening Social Protection Project,2019-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11296678.0,Climate change,28.0,Rwanda,100.0,3163069.8400000003
+44000-P160488,43,"Lake Victoria Transport Program - SOP1, Rwanda",2019-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2669992.0,Climate change,10.0,Rwanda,100.0,266999.2
+44000-P160488,43,"Lake Victoria Transport Program - SOP1, Rwanda",2019-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2669992.0,Climate adaptation,10.0,Rwanda,100.0,266999.2
+44000-P168551,44,Rwanda Quality Basic Education for Human Capital Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,494555.0,Gender,37.0,Rwanda,100.0,182985.35
+44000-P168551,44,Rwanda Quality Basic Education for Human Capital Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,494555.0,Climate mitigation,5.0,Rwanda,100.0,24727.75
+44000-P168551,44,Rwanda Quality Basic Education for Human Capital Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,494555.0,Climate change,19.0,Rwanda,100.0,93965.45
+44000-P168551,44,Rwanda Quality Basic Education for Human Capital Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,494555.0,Climate adaptation,15.0,Rwanda,100.0,74183.25
+44000-P148927,45,Transformation of Agriculture Sector Program Phase 3  PforR,2016-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,23785083.0,Climate mitigation,30.0,Rwanda,100.0,7135524.899999999
+44000-P148927,45,Transformation of Agriculture Sector Program Phase 3  PforR,2016-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,23785083.0,Climate adaptation,30.0,Rwanda,100.0,7135524.899999999
+44000-P148927,45,Transformation of Agriculture Sector Program Phase 3  PforR,2016-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,23785083.0,Climate change,60.0,Rwanda,100.0,14271049.799999999
+44000-P168551,46,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5229305.0,Gender,37.0,Rwanda,100.0,1934842.85
+44000-P168551,46,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5229305.0,Climate mitigation,5.0,Rwanda,100.0,261465.25
+44000-P168551,46,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5229305.0,Climate change,19.0,Rwanda,100.0,993567.95
+44000-P168551,46,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5229305.0,Climate adaptation,15.0,Rwanda,100.0,784395.75
+44000-P112712,47,Second Emergency Demobilization and Reintegration Project,2017-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,221436.0,Gender,10.0,Rwanda,100.0,22143.600000000002
+44000-P165017,48,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2360815.0,Climate change,77.0,Rwanda,100.0,1817827.55
+44000-P165017,48,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2360815.0,Gender,44.0,Rwanda,100.0,1038758.6
+44000-P165017,48,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2360815.0,Climate adaptation,37.0,Rwanda,100.0,873501.55
+44000-P165017,48,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2360815.0,Climate mitigation,40.0,Rwanda,100.0,944326.0
+44000-P171462,49,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,501176.0,Climate change,43.0,Rwanda,100.0,215505.68
+44000-P171462,49,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,501176.0,Gender,87.0,Rwanda,100.0,436023.12
+44000-P171462,49,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,501176.0,Climate mitigation,13.0,Rwanda,100.0,65152.880000000005
+44000-P171462,49,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,501176.0,Climate adaptation,30.0,Rwanda,100.0,150352.8
+44000-P165017,50,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2913427.0,Climate change,77.0,Rwanda,100.0,2243338.79
+44000-P165017,50,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2913427.0,Gender,44.0,Rwanda,100.0,1281907.8800000001
+44000-P165017,50,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2913427.0,Climate adaptation,37.0,Rwanda,100.0,1077967.99
+44000-P165017,50,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2913427.0,Climate mitigation,40.0,Rwanda,100.0,1165370.8
+44000-P112712,51,Second Emergency Demobilization and Reintegration Project,2015-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,517107.0,Gender,10.0,Rwanda,100.0,51710.700000000004
+44000-P165017,52,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2408510.0,Climate change,77.0,Rwanda,100.0,1854552.7
+44000-P165017,52,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2408510.0,Gender,44.0,Rwanda,100.0,1059744.4
+44000-P165017,52,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2408510.0,Climate adaptation,37.0,Rwanda,100.0,891148.7
+44000-P165017,52,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2408510.0,Climate mitigation,40.0,Rwanda,100.0,963404.0
+44000-P164130,53,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5431552.0,Climate change,25.0,Rwanda,100.0,1357888.0
+44000-P164130,53,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5431552.0,Climate mitigation,5.0,Rwanda,100.0,271577.60000000003
+44000-P164130,53,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5431552.0,Climate adaptation,20.0,Rwanda,100.0,1086310.4000000001
+44000-P164130,53,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5431552.0,Gender,30.0,Rwanda,100.0,1629465.5999999999
+44000-P164807,54,Rwanda Public Finance Management Reform Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4520715.0,Gender,54.0,Rwanda,100.0,2441186.1
+44000-P172594,55,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5519960.0,Climate change,38.0,Rwanda,100.0,2097584.8
+44000-P172594,55,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5519960.0,Climate mitigation,31.0,Rwanda,100.0,1711187.6
+44000-P172594,55,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5519960.0,Gender,63.0,Rwanda,100.0,3477574.8
+44000-P172594,55,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5519960.0,Climate adaptation,7.0,Rwanda,100.0,386397.2
+44000-P165017,56,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1667202.0,Climate change,77.0,Rwanda,100.0,1283745.54
+44000-P165017,56,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1667202.0,Gender,44.0,Rwanda,100.0,733568.88
+44000-P165017,56,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1667202.0,Climate adaptation,37.0,Rwanda,100.0,616864.74
+44000-P165017,56,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1667202.0,Climate mitigation,40.0,Rwanda,100.0,666880.8
+44000-P164130,57,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5124191.0,Climate change,25.0,Rwanda,100.0,1281047.75
+44000-P164130,57,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5124191.0,Climate mitigation,5.0,Rwanda,100.0,256209.55000000002
+44000-P164130,57,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5124191.0,Climate adaptation,20.0,Rwanda,100.0,1024838.2000000001
+44000-P164130,57,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5124191.0,Gender,30.0,Rwanda,100.0,1537257.3
+44000-P112712,58,Second Emergency Demobilization and Reintegration Project,2015-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,944280.0,Gender,10.0,Rwanda,100.0,94428.0
+44000-P177492,59,Social Protection Transformation Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21607136.0,Climate change,12.0,Rwanda,100.0,2592856.32
+44000-P177492,59,Social Protection Transformation Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21607136.0,Climate adaptation,12.0,Rwanda,100.0,2592856.32
+44000-P177492,59,Social Protection Transformation Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21607136.0,Gender,22.0,Rwanda,100.0,4753569.92
+44000-P112712,60,Second Emergency Demobilization and Reintegration Project,2013-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,352140.0,Gender,10.0,Rwanda,100.0,35214.0
+44000-P172594,61,Rwanda - Energy Access and Quality Improvement Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952524.0,Climate change,38.0,Rwanda,100.0,361959.12
+44000-P172594,61,Rwanda - Energy Access and Quality Improvement Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952524.0,Climate mitigation,31.0,Rwanda,100.0,295282.44
+44000-P172594,61,Rwanda - Energy Access and Quality Improvement Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952524.0,Gender,63.0,Rwanda,100.0,600090.12
+44000-P172594,61,Rwanda - Energy Access and Quality Improvement Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,952524.0,Climate adaptation,7.0,Rwanda,100.0,66676.68000000001
+44000-P164130,62,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2019-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,818308.0,Climate change,25.0,Rwanda,100.0,204577.0
+44000-P164130,62,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2019-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,818308.0,Climate mitigation,5.0,Rwanda,100.0,40915.4
+44000-P164130,62,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2019-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,818308.0,Climate adaptation,20.0,Rwanda,100.0,163661.6
+44000-P164130,62,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2019-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,818308.0,Gender,30.0,Rwanda,100.0,245492.4
+44000-P171462,63,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1574916.0,Climate change,43.0,Rwanda,100.0,677213.88
+44000-P171462,63,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1574916.0,Gender,87.0,Rwanda,100.0,1370176.92
+44000-P171462,63,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1574916.0,Climate mitigation,13.0,Rwanda,100.0,204739.08000000002
+44000-P171462,63,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1574916.0,Climate adaptation,30.0,Rwanda,100.0,472474.8
+44000-P112712,64,Second Emergency Demobilization and Reintegration Project,2016-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,717552.0,Gender,10.0,Rwanda,100.0,71755.2
+44000-P171462,65,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,308431.0,Climate change,43.0,Rwanda,100.0,132625.33
+44000-P171462,65,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,308431.0,Gender,87.0,Rwanda,100.0,268334.97
+44000-P171462,65,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,308431.0,Climate mitigation,13.0,Rwanda,100.0,40096.03
+44000-P171462,65,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,308431.0,Climate adaptation,30.0,Rwanda,100.0,92529.3
+44000-P171462,66,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9548270.0,Climate change,43.0,Rwanda,100.0,4105756.1
+44000-P171462,66,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9548270.0,Gender,87.0,Rwanda,100.0,8306994.9
+44000-P171462,66,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9548270.0,Climate mitigation,13.0,Rwanda,100.0,1241275.1
+44000-P171462,66,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9548270.0,Climate adaptation,30.0,Rwanda,100.0,2864481.0
+44000-P160488,67,"Lake Victoria Transport Program - SOP1, Rwanda",2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1861308.0,Climate change,10.0,Rwanda,100.0,186130.80000000002
+44000-P160488,67,"Lake Victoria Transport Program - SOP1, Rwanda",2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1861308.0,Climate adaptation,10.0,Rwanda,100.0,186130.80000000002
+44000-P171462,68,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9566203.0,Climate change,43.0,Rwanda,100.0,4113467.29
+44000-P171462,68,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9566203.0,Gender,87.0,Rwanda,100.0,8322596.61
+44000-P171462,68,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9566203.0,Climate mitigation,13.0,Rwanda,100.0,1243606.3900000001
+44000-P171462,68,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9566203.0,Climate adaptation,30.0,Rwanda,100.0,2869860.9
+44000-P173373,69,Digital Acceleration Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6817110.0,Climate adaptation,5.0,Rwanda,100.0,340855.5
+44000-P173373,69,Digital Acceleration Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6817110.0,Climate change,15.0,Rwanda,100.0,1022566.5
+44000-P173373,69,Digital Acceleration Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6817110.0,Climate mitigation,9.0,Rwanda,100.0,613539.9
+44000-P168551,70,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3544133.0,Gender,37.0,Rwanda,100.0,1311329.21
+44000-P168551,70,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3544133.0,Climate mitigation,5.0,Rwanda,100.0,177206.65000000002
+44000-P168551,70,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3544133.0,Climate change,19.0,Rwanda,100.0,673385.27
+44000-P168551,70,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3544133.0,Climate adaptation,15.0,Rwanda,100.0,531619.95
+44000-P172594,71,Rwanda - Energy Access and Quality Improvement Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8288751.0,Climate change,38.0,Rwanda,100.0,3149725.38
+44000-P172594,71,Rwanda - Energy Access and Quality Improvement Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8288751.0,Climate mitigation,31.0,Rwanda,100.0,2569512.81
+44000-P172594,71,Rwanda - Energy Access and Quality Improvement Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8288751.0,Gender,63.0,Rwanda,100.0,5221913.13
+44000-P172594,71,Rwanda - Energy Access and Quality Improvement Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8288751.0,Climate adaptation,7.0,Rwanda,100.0,580212.5700000001
+44000-P168551,72,Rwanda Quality Basic Education for Human Capital Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1865769.0,Gender,37.0,Rwanda,100.0,690334.53
+44000-P168551,72,Rwanda Quality Basic Education for Human Capital Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1865769.0,Climate mitigation,5.0,Rwanda,100.0,93288.45000000001
+44000-P168551,72,Rwanda Quality Basic Education for Human Capital Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1865769.0,Climate change,19.0,Rwanda,100.0,354496.11
+44000-P168551,72,Rwanda Quality Basic Education for Human Capital Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1865769.0,Climate adaptation,15.0,Rwanda,100.0,279865.35
+44000-P112712,73,Second Emergency Demobilization and Reintegration Project,2016-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,468663.0,Gender,10.0,Rwanda,100.0,46866.3
+44000-P172594,74,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1322983.0,Climate change,38.0,Rwanda,100.0,502733.54
+44000-P172594,74,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1322983.0,Climate mitigation,31.0,Rwanda,100.0,410124.73
+44000-P172594,74,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1322983.0,Gender,63.0,Rwanda,100.0,833479.29
+44000-P172594,74,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1322983.0,Climate adaptation,7.0,Rwanda,100.0,92608.81000000001
+44000-P162646,75,Strengthening Social Protection Project,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7673280.0,Climate mitigation,10.0,Rwanda,100.0,767328.0
+44000-P162646,75,Strengthening Social Protection Project,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7673280.0,Climate adaptation,18.0,Rwanda,100.0,1381190.4
+44000-P162646,75,Strengthening Social Protection Project,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7673280.0,Climate change,28.0,Rwanda,100.0,2148518.4000000004
+44000-P165017,76,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2190733.0,Climate change,77.0,Rwanda,100.0,1686864.4100000001
+44000-P165017,76,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2190733.0,Gender,44.0,Rwanda,100.0,963922.52
+44000-P165017,76,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2190733.0,Climate adaptation,37.0,Rwanda,100.0,810571.21
+44000-P165017,76,Second Rwanda Urban Development Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2190733.0,Climate mitigation,40.0,Rwanda,100.0,876293.2000000001
+44000-P165017,77,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,885358.0,Climate change,77.0,Rwanda,100.0,681725.66
+44000-P165017,77,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,885358.0,Gender,44.0,Rwanda,100.0,389557.52
+44000-P165017,77,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,885358.0,Climate adaptation,37.0,Rwanda,100.0,327582.46
+44000-P165017,77,Second Rwanda Urban Development Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,885358.0,Climate mitigation,40.0,Rwanda,100.0,354143.2
+44000-P165017,78,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,654922.0,Climate change,77.0,Rwanda,100.0,504289.94
+44000-P165017,78,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,654922.0,Gender,44.0,Rwanda,100.0,288165.68
+44000-P165017,78,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,654922.0,Climate adaptation,37.0,Rwanda,100.0,242321.13999999998
+44000-P165017,78,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,654922.0,Climate mitigation,40.0,Rwanda,100.0,261968.80000000002
+44000-P165017,79,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3094451.0,Climate change,77.0,Rwanda,100.0,2382727.27
+44000-P165017,79,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3094451.0,Gender,44.0,Rwanda,100.0,1361558.44
+44000-P165017,79,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3094451.0,Climate adaptation,37.0,Rwanda,100.0,1144946.8699999999
+44000-P165017,79,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3094451.0,Climate mitigation,40.0,Rwanda,100.0,1237780.4000000001
+44000-P165017,80,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,736761.0,Climate change,77.0,Rwanda,100.0,567305.97
+44000-P165017,80,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,736761.0,Gender,44.0,Rwanda,100.0,324174.84
+44000-P165017,80,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,736761.0,Climate adaptation,37.0,Rwanda,100.0,272601.57
+44000-P165017,80,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,736761.0,Climate mitigation,40.0,Rwanda,100.0,294704.4
+44000-P112712,81,Second Emergency Demobilization and Reintegration Project,2014-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1135982.0,Gender,10.0,Rwanda,100.0,113598.20000000001
+44000-P112712,82,Second Emergency Demobilization and Reintegration Project,2015-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,705405.0,Gender,10.0,Rwanda,100.0,70540.5
+44000-P164130,83,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1560202.0,Climate change,25.0,Rwanda,100.0,390050.5
+44000-P164130,83,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1560202.0,Climate mitigation,5.0,Rwanda,100.0,78010.1
+44000-P164130,83,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1560202.0,Climate adaptation,20.0,Rwanda,100.0,312040.4
+44000-P164130,83,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2020-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1560202.0,Gender,30.0,Rwanda,100.0,468060.6
+44000-P112712,84,Second Emergency Demobilization and Reintegration Project,2015-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1789.0,Gender,10.0,Rwanda,100.0,178.9
+44000-P148927,85,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2813659.0,Climate mitigation,30.0,Rwanda,100.0,844097.7
+44000-P148927,85,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2813659.0,Climate adaptation,30.0,Rwanda,100.0,844097.7
+44000-P148927,85,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2813659.0,Climate change,60.0,Rwanda,100.0,1688195.4
+44000-P172594,86,Rwanda - Energy Access and Quality Improvement Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4546136.0,Climate change,38.0,Rwanda,100.0,1727531.68
+44000-P172594,86,Rwanda - Energy Access and Quality Improvement Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4546136.0,Climate mitigation,31.0,Rwanda,100.0,1409302.16
+44000-P172594,86,Rwanda - Energy Access and Quality Improvement Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4546136.0,Gender,63.0,Rwanda,100.0,2864065.68
+44000-P172594,86,Rwanda - Energy Access and Quality Improvement Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4546136.0,Climate adaptation,7.0,Rwanda,100.0,318229.52
+44000-P165017,87,Second Rwanda Urban Development Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,155694.0,Climate change,77.0,Rwanda,100.0,119884.38
+44000-P165017,87,Second Rwanda Urban Development Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,155694.0,Gender,44.0,Rwanda,100.0,68505.36
+44000-P165017,87,Second Rwanda Urban Development Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,155694.0,Climate adaptation,37.0,Rwanda,100.0,57606.78
+44000-P165017,87,Second Rwanda Urban Development Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,155694.0,Climate mitigation,40.0,Rwanda,100.0,62277.600000000006
+44000-P172594,88,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4749545.0,Climate change,38.0,Rwanda,100.0,1804827.1
+44000-P172594,88,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4749545.0,Climate mitigation,31.0,Rwanda,100.0,1472358.95
+44000-P172594,88,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4749545.0,Gender,63.0,Rwanda,100.0,2992213.35
+44000-P172594,88,Rwanda - Energy Access and Quality Improvement Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4749545.0,Climate adaptation,7.0,Rwanda,100.0,332468.15
+44000-P112712,89,Second Emergency Demobilization and Reintegration Project,2010-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,344193.0,Gender,10.0,Rwanda,100.0,34419.3
+44000-P171462,90,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3460915.0,Climate change,43.0,Rwanda,100.0,1488193.45
+44000-P171462,90,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3460915.0,Gender,87.0,Rwanda,100.0,3010996.05
+44000-P171462,90,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3460915.0,Climate mitigation,13.0,Rwanda,100.0,449918.95
+44000-P171462,90,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3460915.0,Climate adaptation,30.0,Rwanda,100.0,1038274.5
+44000-P112712,91,Second Emergency Demobilization and Reintegration Project,2012-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,442000.0,Gender,10.0,Rwanda,100.0,44200.0
+44000-P165017,92,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,795155.0,Climate change,77.0,Rwanda,100.0,612269.35
+44000-P165017,92,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,795155.0,Gender,44.0,Rwanda,100.0,349868.2
+44000-P165017,92,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,795155.0,Climate adaptation,37.0,Rwanda,100.0,294207.35
+44000-P165017,92,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,795155.0,Climate mitigation,40.0,Rwanda,100.0,318062.0
+44000-P164807,93,Rwanda Public Finance Management Reform Project,2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3013461.0,Gender,54.0,Rwanda,100.0,1627268.9400000002
+44000-P165017,94,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1596185.0,Climate change,77.0,Rwanda,100.0,1229062.45
+44000-P165017,94,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1596185.0,Gender,44.0,Rwanda,100.0,702321.4
+44000-P165017,94,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1596185.0,Climate adaptation,37.0,Rwanda,100.0,590588.45
+44000-P165017,94,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1596185.0,Climate mitigation,40.0,Rwanda,100.0,638474.0
+44000-P148927,95,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16657977.0,Climate mitigation,30.0,Rwanda,100.0,4997393.1
+44000-P148927,95,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16657977.0,Climate adaptation,30.0,Rwanda,100.0,4997393.1
+44000-P148927,95,Transformation of Agriculture Sector Program Phase 3  PforR,2017-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,16657977.0,Climate change,60.0,Rwanda,100.0,9994786.2
+44000-P165017,96,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,964764.0,Climate change,77.0,Rwanda,100.0,742868.28
+44000-P165017,96,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,964764.0,Gender,44.0,Rwanda,100.0,424496.16
+44000-P165017,96,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,964764.0,Climate adaptation,37.0,Rwanda,100.0,356962.68
+44000-P165017,96,Second Rwanda Urban Development Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,964764.0,Climate mitigation,40.0,Rwanda,100.0,385905.60000000003
+44000-P160488,97,"Lake Victoria Transport Program - SOP1, Rwanda",2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,637523.0,Climate change,10.0,Rwanda,100.0,63752.3
+44000-P160488,97,"Lake Victoria Transport Program - SOP1, Rwanda",2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,637523.0,Climate adaptation,10.0,Rwanda,100.0,63752.3
+44000-P173373,98,Digital Acceleration Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3721382.0,Climate adaptation,5.0,Rwanda,100.0,186069.1
+44000-P173373,98,Digital Acceleration Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3721382.0,Climate change,15.0,Rwanda,100.0,558207.2999999999
+44000-P173373,98,Digital Acceleration Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3721382.0,Climate mitigation,9.0,Rwanda,100.0,334924.38
+44000-P175273,99,Access to Finance for Recovery and Resilience Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,79076.0,Gender,77.0,Rwanda,100.0,60888.520000000004
+44000-P175273,99,Access to Finance for Recovery and Resilience Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,79076.0,Climate change,6.0,Rwanda,100.0,4744.5599999999995
+44000-P175273,99,Access to Finance for Recovery and Resilience Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,79076.0,Climate adaptation,6.0,Rwanda,100.0,4744.5599999999995
+44000-P168551,100,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,385000.0,Gender,37.0,Rwanda,100.0,142450.0
+44000-P168551,100,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,385000.0,Climate mitigation,5.0,Rwanda,100.0,19250.0
+44000-P168551,100,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,385000.0,Climate change,19.0,Rwanda,100.0,73150.0
+44000-P168551,100,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,385000.0,Climate adaptation,15.0,Rwanda,100.0,57750.0
+44000-P161876,101,Transformation of Agriculture Sector Program 4 Phase 2,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21751601.0,Climate mitigation,15.0,Rwanda,100.0,3262740.15
+44000-P161876,101,Transformation of Agriculture Sector Program 4 Phase 2,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21751601.0,Climate adaptation,16.0,Rwanda,100.0,3480256.16
+44000-P161876,101,Transformation of Agriculture Sector Program 4 Phase 2,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,21751601.0,Climate change,31.0,Rwanda,100.0,6742996.31
+44000-P162646,102,Strengthening Social Protection Project,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11318480.0,Climate mitigation,10.0,Rwanda,100.0,1131848.0
+44000-P162646,102,Strengthening Social Protection Project,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11318480.0,Climate adaptation,18.0,Rwanda,100.0,2037326.4
+44000-P162646,102,Strengthening Social Protection Project,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,11318480.0,Climate change,28.0,Rwanda,100.0,3169174.4000000004
+44000-P172594,103,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1960663.0,Climate change,38.0,Rwanda,100.0,745051.9400000001
+44000-P172594,103,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1960663.0,Climate mitigation,31.0,Rwanda,100.0,607805.53
+44000-P172594,103,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1960663.0,Gender,63.0,Rwanda,100.0,1235217.69
+44000-P172594,103,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1960663.0,Climate adaptation,7.0,Rwanda,100.0,137246.41
+44000-P171462,104,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,312202.0,Climate change,43.0,Rwanda,100.0,134246.86
+44000-P171462,104,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,312202.0,Gender,87.0,Rwanda,100.0,271615.74
+44000-P171462,104,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,312202.0,Climate mitigation,13.0,Rwanda,100.0,40586.26
+44000-P171462,104,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,312202.0,Climate adaptation,30.0,Rwanda,100.0,93660.59999999999
+44000-P112712,105,Second Emergency Demobilization and Reintegration Project,2017-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,315110.0,Gender,10.0,Rwanda,100.0,31511.0
+44000-P164130,106,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4809637.0,Climate change,25.0,Rwanda,100.0,1202409.25
+44000-P164130,106,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4809637.0,Climate mitigation,5.0,Rwanda,100.0,240481.85
+44000-P164130,106,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4809637.0,Climate adaptation,20.0,Rwanda,100.0,961927.4
+44000-P164130,106,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4809637.0,Gender,30.0,Rwanda,100.0,1442891.0999999999
+44000-P148927,107,Transformation of Agriculture Sector Program Phase 3  PforR,2015-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,38023105.0,Climate mitigation,30.0,Rwanda,100.0,11406931.5
+44000-P148927,107,Transformation of Agriculture Sector Program Phase 3  PforR,2015-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,38023105.0,Climate adaptation,30.0,Rwanda,100.0,11406931.5
+44000-P148927,107,Transformation of Agriculture Sector Program Phase 3  PforR,2015-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,38023105.0,Climate change,60.0,Rwanda,100.0,22813863.0
+44000-P164807,108,Rwanda Public Finance Management Reform Project,2019-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,657750.0,Gender,54.0,Rwanda,100.0,355185.0
+44000-P171462,109,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1011610.0,Climate change,43.0,Rwanda,100.0,434992.3
+44000-P171462,109,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1011610.0,Gender,87.0,Rwanda,100.0,880100.7
+44000-P171462,109,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1011610.0,Climate mitigation,13.0,Rwanda,100.0,131509.30000000002
+44000-P171462,109,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1011610.0,Climate adaptation,30.0,Rwanda,100.0,303483.0
+44000-P165017,110,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,727939.0,Climate change,77.0,Rwanda,100.0,560513.03
+44000-P165017,110,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,727939.0,Gender,44.0,Rwanda,100.0,320293.16
+44000-P165017,110,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,727939.0,Climate adaptation,37.0,Rwanda,100.0,269337.43
+44000-P165017,110,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,727939.0,Climate mitigation,40.0,Rwanda,100.0,291175.60000000003
+44000-P171462,111,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate change,43.0,Rwanda,100.0,860000.0
+44000-P171462,111,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Gender,87.0,Rwanda,100.0,1740000.0
+44000-P171462,111,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate mitigation,13.0,Rwanda,100.0,260000.0
+44000-P171462,111,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate adaptation,30.0,Rwanda,100.0,600000.0
+44000-P165017,112,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1265375.0,Climate change,77.0,Rwanda,100.0,974338.75
+44000-P165017,112,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1265375.0,Gender,44.0,Rwanda,100.0,556765.0
+44000-P165017,112,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1265375.0,Climate adaptation,37.0,Rwanda,100.0,468188.75
+44000-P165017,112,Second Rwanda Urban Development Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1265375.0,Climate mitigation,40.0,Rwanda,100.0,506150.0
+44000-P162646,113,Strengthening Social Protection Project,2020-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8447997.0,Climate mitigation,10.0,Rwanda,100.0,844799.7000000001
+44000-P162646,113,Strengthening Social Protection Project,2020-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8447997.0,Climate adaptation,18.0,Rwanda,100.0,1520639.46
+44000-P162646,113,Strengthening Social Protection Project,2020-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8447997.0,Climate change,28.0,Rwanda,100.0,2365439.16
+44000-P172594,114,Rwanda - Energy Access and Quality Improvement Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8323821.0,Climate change,38.0,Rwanda,100.0,3163051.98
+44000-P172594,114,Rwanda - Energy Access and Quality Improvement Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8323821.0,Climate mitigation,31.0,Rwanda,100.0,2580384.51
+44000-P172594,114,Rwanda - Energy Access and Quality Improvement Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8323821.0,Gender,63.0,Rwanda,100.0,5244007.23
+44000-P172594,114,Rwanda - Energy Access and Quality Improvement Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8323821.0,Climate adaptation,7.0,Rwanda,100.0,582667.4700000001
+44000-P175273,115,Access to Finance for Recovery and Resilience Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Gender,77.0,Rwanda,100.0,1540000.0
+44000-P175273,115,Access to Finance for Recovery and Resilience Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate change,6.0,Rwanda,100.0,120000.0
+44000-P175273,115,Access to Finance for Recovery and Resilience Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate adaptation,6.0,Rwanda,100.0,120000.0
+44000-P171462,116,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1580867.0,Climate change,43.0,Rwanda,100.0,679772.8099999999
+44000-P171462,116,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1580867.0,Gender,87.0,Rwanda,100.0,1375354.29
+44000-P171462,116,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1580867.0,Climate mitigation,13.0,Rwanda,100.0,205512.71000000002
+44000-P171462,116,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1580867.0,Climate adaptation,30.0,Rwanda,100.0,474260.1
+44000-P165017,117,Second Rwanda Urban Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,154392.0,Climate change,77.0,Rwanda,100.0,118881.84
+44000-P165017,117,Second Rwanda Urban Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,154392.0,Gender,44.0,Rwanda,100.0,67932.48
+44000-P165017,117,Second Rwanda Urban Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,154392.0,Climate adaptation,37.0,Rwanda,100.0,57125.04
+44000-P165017,117,Second Rwanda Urban Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,154392.0,Climate mitigation,40.0,Rwanda,100.0,61756.8
+44000-P165017,118,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,489449.0,Climate change,77.0,Rwanda,100.0,376875.73
+44000-P165017,118,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,489449.0,Gender,44.0,Rwanda,100.0,215357.56
+44000-P165017,118,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,489449.0,Climate adaptation,37.0,Rwanda,100.0,181096.13
+44000-P165017,118,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,489449.0,Climate mitigation,40.0,Rwanda,100.0,195779.6
+44000-P112712,119,Second Emergency Demobilization and Reintegration Project,2015-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,455286.0,Gender,10.0,Rwanda,100.0,45528.600000000006
+44000-P168551,120,Rwanda Quality Basic Education for Human Capital Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9970977.0,Gender,37.0,Rwanda,100.0,3689261.4899999998
+44000-P168551,120,Rwanda Quality Basic Education for Human Capital Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9970977.0,Climate mitigation,5.0,Rwanda,100.0,498548.85000000003
+44000-P168551,120,Rwanda Quality Basic Education for Human Capital Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9970977.0,Climate change,19.0,Rwanda,100.0,1894485.6300000001
+44000-P168551,120,Rwanda Quality Basic Education for Human Capital Development Project,2022-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9970977.0,Climate adaptation,15.0,Rwanda,100.0,1495646.55
+44000-P112712,121,Second Emergency Demobilization and Reintegration Project,2010-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,152933.0,Gender,10.0,Rwanda,100.0,15293.300000000001
+44000-P162646,122,Strengthening Social Protection Project,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8538927.0,Climate mitigation,10.0,Rwanda,100.0,853892.7000000001
+44000-P162646,122,Strengthening Social Protection Project,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8538927.0,Climate adaptation,18.0,Rwanda,100.0,1537006.8599999999
+44000-P162646,122,Strengthening Social Protection Project,2018-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8538927.0,Climate change,28.0,Rwanda,100.0,2390899.56
+44000-P112712,123,Second Emergency Demobilization and Reintegration Project,2011-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,330394.0,Gender,10.0,Rwanda,100.0,33039.4
+44000-P112712,124,Second Emergency Demobilization and Reintegration Project,2012-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,39897.0,Gender,10.0,Rwanda,100.0,3989.7000000000003
+44000-P165017,125,Second Rwanda Urban Development Project,2022-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,245806.0,Climate change,77.0,Rwanda,100.0,189270.62
+44000-P165017,125,Second Rwanda Urban Development Project,2022-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,245806.0,Gender,44.0,Rwanda,100.0,108154.64
+44000-P165017,125,Second Rwanda Urban Development Project,2022-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,245806.0,Climate adaptation,37.0,Rwanda,100.0,90948.22
+44000-P165017,125,Second Rwanda Urban Development Project,2022-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,245806.0,Climate mitigation,40.0,Rwanda,100.0,98322.40000000001
+44000-P165017,126,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1018342.0,Climate change,77.0,Rwanda,100.0,784123.34
+44000-P165017,126,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1018342.0,Gender,44.0,Rwanda,100.0,448070.48
+44000-P165017,126,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1018342.0,Climate adaptation,37.0,Rwanda,100.0,376786.54
+44000-P165017,126,Second Rwanda Urban Development Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1018342.0,Climate mitigation,40.0,Rwanda,100.0,407336.80000000005
+44000-P172594,127,Rwanda - Energy Access and Quality Improvement Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4304387.0,Climate change,38.0,Rwanda,100.0,1635667.06
+44000-P172594,127,Rwanda - Energy Access and Quality Improvement Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4304387.0,Climate mitigation,31.0,Rwanda,100.0,1334359.97
+44000-P172594,127,Rwanda - Energy Access and Quality Improvement Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4304387.0,Gender,63.0,Rwanda,100.0,2711763.81
+44000-P172594,127,Rwanda - Energy Access and Quality Improvement Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4304387.0,Climate adaptation,7.0,Rwanda,100.0,301307.09
+44000-P165017,128,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,498396.0,Climate change,77.0,Rwanda,100.0,383764.92
+44000-P165017,128,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,498396.0,Gender,44.0,Rwanda,100.0,219294.24
+44000-P165017,128,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,498396.0,Climate adaptation,37.0,Rwanda,100.0,184406.52
+44000-P165017,128,Second Rwanda Urban Development Project,2023-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,498396.0,Climate mitigation,40.0,Rwanda,100.0,199358.40000000002
+44000-P112712,129,Second Emergency Demobilization and Reintegration Project,2017-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,159770.0,Gender,10.0,Rwanda,100.0,15977.0
+44000-P161876,130,Transformation of Agriculture Sector Program 4 Phase 2,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,20031368.0,Climate mitigation,15.0,Rwanda,100.0,3004705.1999999997
+44000-P161876,130,Transformation of Agriculture Sector Program 4 Phase 2,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,20031368.0,Climate adaptation,16.0,Rwanda,100.0,3205018.88
+44000-P161876,130,Transformation of Agriculture Sector Program 4 Phase 2,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,20031368.0,Climate change,31.0,Rwanda,100.0,6209724.08
+44000-P160488,131,"Lake Victoria Transport Program - SOP1, Rwanda",2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,61393.0,Climate change,10.0,Rwanda,100.0,6139.3
+44000-P160488,131,"Lake Victoria Transport Program - SOP1, Rwanda",2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,61393.0,Climate adaptation,10.0,Rwanda,100.0,6139.3
+44000-P175273,132,Access to Finance for Recovery and Resilience Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,26336308.0,Gender,77.0,Rwanda,100.0,20278957.16
+44000-P175273,132,Access to Finance for Recovery and Resilience Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,26336308.0,Climate change,6.0,Rwanda,100.0,1580178.48
+44000-P175273,132,Access to Finance for Recovery and Resilience Project,2022-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,26336308.0,Climate adaptation,6.0,Rwanda,100.0,1580178.48
+44000-P165017,133,Second Rwanda Urban Development Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,201983.0,Climate change,77.0,Rwanda,100.0,155526.91
+44000-P165017,133,Second Rwanda Urban Development Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,201983.0,Gender,44.0,Rwanda,100.0,88872.52
+44000-P165017,133,Second Rwanda Urban Development Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,201983.0,Climate adaptation,37.0,Rwanda,100.0,74733.70999999999
+44000-P165017,133,Second Rwanda Urban Development Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,201983.0,Climate mitigation,40.0,Rwanda,100.0,80793.20000000001
+44000-P112712,134,Second Emergency Demobilization and Reintegration Project,2010-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1700000.0,Gender,10.0,Rwanda,100.0,170000.0
+44000-P165017,135,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3554181.0,Climate change,77.0,Rwanda,100.0,2736719.37
+44000-P165017,135,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3554181.0,Gender,44.0,Rwanda,100.0,1563839.64
+44000-P165017,135,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3554181.0,Climate adaptation,37.0,Rwanda,100.0,1315046.97
+44000-P165017,135,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3554181.0,Climate mitigation,40.0,Rwanda,100.0,1421672.4000000001
+44000-P165017,136,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,940451.0,Climate change,77.0,Rwanda,100.0,724147.27
+44000-P165017,136,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,940451.0,Gender,44.0,Rwanda,100.0,413798.44
+44000-P165017,136,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,940451.0,Climate adaptation,37.0,Rwanda,100.0,347966.87
+44000-P165017,136,Second Rwanda Urban Development Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,940451.0,Climate mitigation,40.0,Rwanda,100.0,376180.4
+44000-P164130,137,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8908939.0,Climate change,25.0,Rwanda,100.0,2227234.75
+44000-P164130,137,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8908939.0,Climate mitigation,5.0,Rwanda,100.0,445446.95
+44000-P164130,137,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8908939.0,Climate adaptation,20.0,Rwanda,100.0,1781787.8
+44000-P164130,137,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,8908939.0,Gender,30.0,Rwanda,100.0,2672681.6999999997
+44000-P112712,138,Second Emergency Demobilization and Reintegration Project,2016-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,449948.0,Gender,10.0,Rwanda,100.0,44994.8
+44000-P168551,139,Rwanda Quality Basic Education for Human Capital Development Project,2020-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,18416476.0,Gender,37.0,Rwanda,100.0,6814096.12
+44000-P168551,139,Rwanda Quality Basic Education for Human Capital Development Project,2020-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,18416476.0,Climate mitigation,5.0,Rwanda,100.0,920823.8
+44000-P168551,139,Rwanda Quality Basic Education for Human Capital Development Project,2020-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,18416476.0,Climate change,19.0,Rwanda,100.0,3499130.44
+44000-P168551,139,Rwanda Quality Basic Education for Human Capital Development Project,2020-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,18416476.0,Climate adaptation,15.0,Rwanda,100.0,2762471.4
+44000-P112712,140,Second Emergency Demobilization and Reintegration Project,2016-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,154229.0,Gender,10.0,Rwanda,100.0,15422.900000000001
+44000-P162646,141,Strengthening Social Protection Project,2021-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,159543.0,Climate mitigation,10.0,Rwanda,100.0,15954.300000000001
+44000-P162646,141,Strengthening Social Protection Project,2021-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,159543.0,Climate adaptation,18.0,Rwanda,100.0,28717.739999999998
+44000-P162646,141,Strengthening Social Protection Project,2021-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,159543.0,Climate change,28.0,Rwanda,100.0,44672.04
+44000-P171554,142,First Programmatic Human Capital for Inclusive Growth DPF,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,76068161.0,Climate adaptation,17.0,Rwanda,100.0,12931587.370000001
+44000-P171554,142,First Programmatic Human Capital for Inclusive Growth DPF,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,76068161.0,Climate change,17.0,Rwanda,100.0,12931587.370000001
+44000-P177492,143,Social Protection Transformation Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7698068.0,Climate change,12.0,Rwanda,100.0,923768.1599999999
+44000-P177492,143,Social Protection Transformation Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7698068.0,Climate adaptation,12.0,Rwanda,100.0,923768.1599999999
+44000-P177492,143,Social Protection Transformation Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7698068.0,Gender,22.0,Rwanda,100.0,1693574.96
+44000-P164130,144,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6959217.0,Climate change,25.0,Rwanda,100.0,1739804.25
+44000-P164130,144,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6959217.0,Climate mitigation,5.0,Rwanda,100.0,347960.85000000003
+44000-P164130,144,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6959217.0,Climate adaptation,20.0,Rwanda,100.0,1391843.4000000001
+44000-P164130,144,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6959217.0,Gender,30.0,Rwanda,100.0,2087765.0999999999
+44000-P112712,145,Second Emergency Demobilization and Reintegration Project,2016-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,183821.0,Gender,10.0,Rwanda,100.0,18382.100000000002
+44000-P165017,146,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,88850.0,Climate change,77.0,Rwanda,100.0,68414.5
+44000-P165017,146,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,88850.0,Gender,44.0,Rwanda,100.0,39094.0
+44000-P165017,146,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,88850.0,Climate adaptation,37.0,Rwanda,100.0,32874.5
+44000-P165017,146,Second Rwanda Urban Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,88850.0,Climate mitigation,40.0,Rwanda,100.0,35540.0
+44000-P177492,147,Social Protection Transformation Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7655210.0,Climate change,12.0,Rwanda,100.0,918625.2
+44000-P177492,147,Social Protection Transformation Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7655210.0,Climate adaptation,12.0,Rwanda,100.0,918625.2
+44000-P177492,147,Social Protection Transformation Project,2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7655210.0,Gender,22.0,Rwanda,100.0,1684146.2
+44000-P165017,148,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1668933.0,Climate change,77.0,Rwanda,100.0,1285078.41
+44000-P165017,148,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1668933.0,Gender,44.0,Rwanda,100.0,734330.52
+44000-P165017,148,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1668933.0,Climate adaptation,37.0,Rwanda,100.0,617505.21
+44000-P165017,148,Second Rwanda Urban Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1668933.0,Climate mitigation,40.0,Rwanda,100.0,667573.2000000001
+44000-P164130,149,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1920820.0,Climate change,25.0,Rwanda,100.0,480205.0
+44000-P164130,149,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1920820.0,Climate mitigation,5.0,Rwanda,100.0,96041.0
+44000-P164130,149,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1920820.0,Climate adaptation,20.0,Rwanda,100.0,384164.0
+44000-P164130,149,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1920820.0,Gender,30.0,Rwanda,100.0,576246.0
+44000-P175273,150,Access to Finance for Recovery and Resilience Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,10000000.0,Gender,77.0,Rwanda,100.0,7700000.0
+44000-P175273,150,Access to Finance for Recovery and Resilience Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,10000000.0,Climate change,6.0,Rwanda,100.0,600000.0
+44000-P175273,150,Access to Finance for Recovery and Resilience Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,10000000.0,Climate adaptation,6.0,Rwanda,100.0,600000.0
+44000-P165017,151,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1325384.0,Climate change,77.0,Rwanda,100.0,1020545.68
+44000-P165017,151,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1325384.0,Gender,44.0,Rwanda,100.0,583168.96
+44000-P165017,151,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1325384.0,Climate adaptation,37.0,Rwanda,100.0,490392.08
+44000-P165017,151,Second Rwanda Urban Development Project,2023-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1325384.0,Climate mitigation,40.0,Rwanda,100.0,530153.6
+44000-P112712,152,Second Emergency Demobilization and Reintegration Project,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,121178.0,Gender,10.0,Rwanda,100.0,12117.800000000001
+44000-P164130,153,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2917180.0,Climate change,25.0,Rwanda,100.0,729295.0
+44000-P164130,153,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2917180.0,Climate mitigation,5.0,Rwanda,100.0,145859.0
+44000-P164130,153,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2917180.0,Climate adaptation,20.0,Rwanda,100.0,583436.0
+44000-P164130,153,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2917180.0,Gender,30.0,Rwanda,100.0,875154.0
+44000-P172594,154,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1739276.0,Climate change,38.0,Rwanda,100.0,660924.88
+44000-P172594,154,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1739276.0,Climate mitigation,31.0,Rwanda,100.0,539175.5599999999
+44000-P172594,154,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1739276.0,Gender,63.0,Rwanda,100.0,1095743.8800000001
+44000-P172594,154,Rwanda - Energy Access and Quality Improvement Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1739276.0,Climate adaptation,7.0,Rwanda,100.0,121749.32
+44000-P164807,155,Rwanda Public Finance Management Reform Project,2021-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1382949.0,Gender,54.0,Rwanda,100.0,746792.4600000001
+44000-P112712,156,Second Emergency Demobilization and Reintegration Project,2017-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,224132.0,Gender,10.0,Rwanda,100.0,22413.2
+44000-P165017,157,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2075639.0,Climate change,77.0,Rwanda,100.0,1598242.03
+44000-P165017,157,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2075639.0,Gender,44.0,Rwanda,100.0,913281.16
+44000-P165017,157,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2075639.0,Climate adaptation,37.0,Rwanda,100.0,767986.4299999999
+44000-P165017,157,Second Rwanda Urban Development Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2075639.0,Climate mitigation,40.0,Rwanda,100.0,830255.6000000001
+44000-P173373,158,Digital Acceleration Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1717159.0,Climate adaptation,5.0,Rwanda,100.0,85857.95000000001
+44000-P173373,158,Digital Acceleration Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1717159.0,Climate change,15.0,Rwanda,100.0,257573.84999999998
+44000-P173373,158,Digital Acceleration Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1717159.0,Climate mitigation,9.0,Rwanda,100.0,154544.31
+44000-P164807,159,Rwanda Public Finance Management Reform Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3185785.0,Gender,54.0,Rwanda,100.0,1720323.9000000001
+44000-P165017,160,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3090505.0,Climate change,77.0,Rwanda,100.0,2379688.85
+44000-P165017,160,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3090505.0,Gender,44.0,Rwanda,100.0,1359822.2
+44000-P165017,160,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3090505.0,Climate adaptation,37.0,Rwanda,100.0,1143486.85
+44000-P165017,160,Second Rwanda Urban Development Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3090505.0,Climate mitigation,40.0,Rwanda,100.0,1236202.0
+44000-P171554,161,First Programmatic Human Capital for Inclusive Growth DPF,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,76179645.0,Climate adaptation,17.0,Rwanda,100.0,12950539.65
+44000-P171554,161,First Programmatic Human Capital for Inclusive Growth DPF,2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,76179645.0,Climate change,17.0,Rwanda,100.0,12950539.65
+44000-P171462,162,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,19055118.0,Climate change,43.0,Rwanda,100.0,8193700.74
+44000-P171462,162,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,19055118.0,Gender,87.0,Rwanda,100.0,16577952.66
+44000-P171462,162,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,19055118.0,Climate mitigation,13.0,Rwanda,100.0,2477165.3400000003
+44000-P171462,162,Commercialization and De-Risking for Agricultural Transformation Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,19055118.0,Climate adaptation,30.0,Rwanda,100.0,5716535.399999999
+44000-P165017,163,Second Rwanda Urban Development Project,2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,58545.0,Climate change,77.0,Rwanda,100.0,45079.65
+44000-P165017,163,Second Rwanda Urban Development Project,2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,58545.0,Gender,44.0,Rwanda,100.0,25759.8
+44000-P165017,163,Second Rwanda Urban Development Project,2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,58545.0,Climate adaptation,37.0,Rwanda,100.0,21661.65
+44000-P165017,163,Second Rwanda Urban Development Project,2022-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,58545.0,Climate mitigation,40.0,Rwanda,100.0,23418.0
+44000-P160488,164,"Lake Victoria Transport Program - SOP1, Rwanda",2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2335137.0,Climate change,10.0,Rwanda,100.0,233513.7
+44000-P160488,164,"Lake Victoria Transport Program - SOP1, Rwanda",2023-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2335137.0,Climate adaptation,10.0,Rwanda,100.0,233513.7
+44000-P161876,165,Transformation of Agriculture Sector Program 4 Phase 2,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4841406.0,Climate mitigation,15.0,Rwanda,100.0,726210.9
+44000-P161876,165,Transformation of Agriculture Sector Program 4 Phase 2,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4841406.0,Climate adaptation,16.0,Rwanda,100.0,774624.96
+44000-P161876,165,Transformation of Agriculture Sector Program 4 Phase 2,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,4841406.0,Climate change,31.0,Rwanda,100.0,1500835.86
+44000-P168551,166,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6005000.0,Gender,37.0,Rwanda,100.0,2221850.0
+44000-P168551,166,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6005000.0,Climate mitigation,5.0,Rwanda,100.0,300250.0
+44000-P168551,166,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6005000.0,Climate change,19.0,Rwanda,100.0,1140950.0
+44000-P168551,166,Rwanda Quality Basic Education for Human Capital Development Project,2023-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6005000.0,Climate adaptation,15.0,Rwanda,100.0,900750.0
+44000-P165017,167,Second Rwanda Urban Development Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,84301.0,Climate change,77.0,Rwanda,100.0,64911.770000000004
+44000-P165017,167,Second Rwanda Urban Development Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,84301.0,Gender,44.0,Rwanda,100.0,37092.44
+44000-P165017,167,Second Rwanda Urban Development Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,84301.0,Climate adaptation,37.0,Rwanda,100.0,31191.37
+44000-P165017,167,Second Rwanda Urban Development Project,2022-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,84301.0,Climate mitigation,40.0,Rwanda,100.0,33720.4
+44000-P172594,168,Rwanda - Energy Access and Quality Improvement Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,592491.0,Climate change,38.0,Rwanda,100.0,225146.58000000002
+44000-P172594,168,Rwanda - Energy Access and Quality Improvement Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,592491.0,Climate mitigation,31.0,Rwanda,100.0,183672.21
+44000-P172594,168,Rwanda - Energy Access and Quality Improvement Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,592491.0,Gender,63.0,Rwanda,100.0,373269.33
+44000-P172594,168,Rwanda - Energy Access and Quality Improvement Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,592491.0,Climate adaptation,7.0,Rwanda,100.0,41474.37
+44000-P175273,169,Access to Finance for Recovery and Resilience Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,85855.0,Gender,77.0,Rwanda,100.0,66108.35
+44000-P175273,169,Access to Finance for Recovery and Resilience Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,85855.0,Climate change,6.0,Rwanda,100.0,5151.3
+44000-P175273,169,Access to Finance for Recovery and Resilience Project,2023-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,85855.0,Climate adaptation,6.0,Rwanda,100.0,5151.3
+44000-P175273,170,Access to Finance for Recovery and Resilience Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,193000.0,Gender,77.0,Rwanda,100.0,148610.0
+44000-P175273,170,Access to Finance for Recovery and Resilience Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,193000.0,Climate change,6.0,Rwanda,100.0,11580.0
+44000-P175273,170,Access to Finance for Recovery and Resilience Project,2022-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,193000.0,Climate adaptation,6.0,Rwanda,100.0,11580.0
+44000-P161876,171,Transformation of Agriculture Sector Program 4 Phase 2,2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14140690.0,Climate mitigation,15.0,Rwanda,100.0,2121103.5
+44000-P161876,171,Transformation of Agriculture Sector Program 4 Phase 2,2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14140690.0,Climate adaptation,16.0,Rwanda,100.0,2262510.4
+44000-P161876,171,Transformation of Agriculture Sector Program 4 Phase 2,2019-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14140690.0,Climate change,31.0,Rwanda,100.0,4383613.9
+44000-P165017,172,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1699116.0,Climate change,77.0,Rwanda,100.0,1308319.32
+44000-P165017,172,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1699116.0,Gender,44.0,Rwanda,100.0,747611.04
+44000-P165017,172,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1699116.0,Climate adaptation,37.0,Rwanda,100.0,628672.92
+44000-P165017,172,Second Rwanda Urban Development Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1699116.0,Climate mitigation,40.0,Rwanda,100.0,679646.4
+44000-P160488,173,"Lake Victoria Transport Program - SOP1, Rwanda",2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,997626.0,Climate change,10.0,Rwanda,100.0,99762.6
+44000-P160488,173,"Lake Victoria Transport Program - SOP1, Rwanda",2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,997626.0,Climate adaptation,10.0,Rwanda,100.0,99762.6
+44000-P171462,174,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963831.0,Climate change,43.0,Rwanda,100.0,1704447.33
+44000-P171462,174,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963831.0,Gender,87.0,Rwanda,100.0,3448532.97
+44000-P171462,174,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963831.0,Climate mitigation,13.0,Rwanda,100.0,515298.03
+44000-P171462,174,Commercialization and De-Risking for Agricultural Transformation Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963831.0,Climate adaptation,30.0,Rwanda,100.0,1189149.3
+44000-P165017,175,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,527411.0,Climate change,77.0,Rwanda,100.0,406106.47000000003
+44000-P165017,175,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,527411.0,Gender,44.0,Rwanda,100.0,232060.84
+44000-P165017,175,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,527411.0,Climate adaptation,37.0,Rwanda,100.0,195142.07
+44000-P165017,175,Second Rwanda Urban Development Project,2024-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,527411.0,Climate mitigation,40.0,Rwanda,100.0,210964.40000000002
+44000-P164807,176,Rwanda Public Finance Management Reform Project,2020-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2354072.0,Gender,54.0,Rwanda,100.0,1271198.8800000001
+44000-P160488,177,"Lake Victoria Transport Program - SOP1, Rwanda",2018-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6196500.0,Climate change,10.0,Rwanda,100.0,619650.0
+44000-P160488,177,"Lake Victoria Transport Program - SOP1, Rwanda",2018-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,6196500.0,Climate adaptation,10.0,Rwanda,100.0,619650.0
+44000-P112712,178,Second Emergency Demobilization and Reintegration Project,2017-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,296454.0,Gender,10.0,Rwanda,100.0,29645.4
+44000-P171462,179,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,500000.0,Climate change,43.0,Rwanda,100.0,215000.0
+44000-P171462,179,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,500000.0,Gender,87.0,Rwanda,100.0,435000.0
+44000-P171462,179,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,500000.0,Climate mitigation,13.0,Rwanda,100.0,65000.0
+44000-P171462,179,Commercialization and De-Risking for Agricultural Transformation Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,500000.0,Climate adaptation,30.0,Rwanda,100.0,150000.0
+44000-P168551,180,Rwanda Quality Basic Education for Human Capital Development Project,2020-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,32845514.0,Gender,37.0,Rwanda,100.0,12152840.18
+44000-P168551,180,Rwanda Quality Basic Education for Human Capital Development Project,2020-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,32845514.0,Climate mitigation,5.0,Rwanda,100.0,1642275.7000000002
+44000-P168551,180,Rwanda Quality Basic Education for Human Capital Development Project,2020-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,32845514.0,Climate change,19.0,Rwanda,100.0,6240647.66
+44000-P168551,180,Rwanda Quality Basic Education for Human Capital Development Project,2020-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,32845514.0,Climate adaptation,15.0,Rwanda,100.0,4926827.1
+44000-P168551,181,Rwanda Quality Basic Education for Human Capital Development Project,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,102806045.0,Gender,37.0,Rwanda,100.0,38038236.65
+44000-P168551,181,Rwanda Quality Basic Education for Human Capital Development Project,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,102806045.0,Climate mitigation,5.0,Rwanda,100.0,5140302.25
+44000-P168551,181,Rwanda Quality Basic Education for Human Capital Development Project,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,102806045.0,Climate change,19.0,Rwanda,100.0,19533148.55
+44000-P168551,181,Rwanda Quality Basic Education for Human Capital Development Project,2020-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,102806045.0,Climate adaptation,15.0,Rwanda,100.0,15420906.75
+44000-P160488,182,"Lake Victoria Transport Program - SOP1, Rwanda",2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3717668.0,Climate change,10.0,Rwanda,100.0,371766.80000000005
+44000-P160488,182,"Lake Victoria Transport Program - SOP1, Rwanda",2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3717668.0,Climate adaptation,10.0,Rwanda,100.0,371766.80000000005
+44000-P172594,183,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9369248.0,Climate change,38.0,Rwanda,100.0,3560314.24
+44000-P172594,183,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9369248.0,Climate mitigation,31.0,Rwanda,100.0,2904466.88
+44000-P172594,183,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9369248.0,Gender,63.0,Rwanda,100.0,5902626.24
+44000-P172594,183,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9369248.0,Climate adaptation,7.0,Rwanda,100.0,655847.3600000001
+44000-P164130,184,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,238832.0,Climate change,25.0,Rwanda,100.0,59708.0
+44000-P164130,184,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,238832.0,Climate mitigation,5.0,Rwanda,100.0,11941.6
+44000-P164130,184,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,238832.0,Climate adaptation,20.0,Rwanda,100.0,47766.4
+44000-P164130,184,Socio-economic Inclusion of Refugees & Host Communities in Rwanda Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,238832.0,Gender,30.0,Rwanda,100.0,71649.59999999999
+44000-P172594,185,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963320.0,Climate change,38.0,Rwanda,100.0,1506061.6
+44000-P172594,185,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963320.0,Climate mitigation,31.0,Rwanda,100.0,1228629.2
+44000-P172594,185,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963320.0,Gender,63.0,Rwanda,100.0,2496891.6
+44000-P172594,185,Rwanda - Energy Access and Quality Improvement Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3963320.0,Climate adaptation,7.0,Rwanda,100.0,277432.4
+44000-P112712,186,Second Emergency Demobilization and Reintegration Project,2011-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1365326.0,Gender,10.0,Rwanda,100.0,136532.6
+44000-P168551,187,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14871441.0,Gender,37.0,Rwanda,100.0,5502433.17
+44000-P168551,187,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14871441.0,Climate mitigation,5.0,Rwanda,100.0,743572.05
+44000-P168551,187,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14871441.0,Climate change,19.0,Rwanda,100.0,2825573.79
+44000-P168551,187,Rwanda Quality Basic Education for Human Capital Development Project,2023-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,14871441.0,Climate adaptation,15.0,Rwanda,100.0,2230716.15
+44000-P160488,188,"Lake Victoria Transport Program - SOP1, Rwanda",2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3515769.0,Climate change,10.0,Rwanda,100.0,351576.9
+44000-P160488,188,"Lake Victoria Transport Program - SOP1, Rwanda",2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3515769.0,Climate adaptation,10.0,Rwanda,100.0,351576.9
+44000-P172594,189,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5751012.0,Climate change,38.0,Rwanda,100.0,2185384.56
+44000-P172594,189,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5751012.0,Climate mitigation,31.0,Rwanda,100.0,1782813.72
+44000-P172594,189,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5751012.0,Gender,63.0,Rwanda,100.0,3623137.56
+44000-P172594,189,Rwanda - Energy Access and Quality Improvement Project,2024-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5751012.0,Climate adaptation,7.0,Rwanda,100.0,402570.84
+44000-P165017,190,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,426053.0,Climate change,77.0,Rwanda,100.0,328060.81
+44000-P165017,190,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,426053.0,Gender,44.0,Rwanda,100.0,187463.32
+44000-P165017,190,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,426053.0,Climate adaptation,37.0,Rwanda,100.0,157639.61
+44000-P165017,190,Second Rwanda Urban Development Project,2022-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,426053.0,Climate mitigation,40.0,Rwanda,100.0,170421.2
+44000-P165017,191,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2968636.0,Climate change,77.0,Rwanda,100.0,2285849.72
+44000-P165017,191,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2968636.0,Gender,44.0,Rwanda,100.0,1306199.84
+44000-P165017,191,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2968636.0,Climate adaptation,37.0,Rwanda,100.0,1098395.32
+44000-P165017,191,Second Rwanda Urban Development Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2968636.0,Climate mitigation,40.0,Rwanda,100.0,1187454.4000000001
+44000-P148927,192,Transformation of Agriculture Sector Program Phase 3  PforR,2014-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,28244765.0,Climate mitigation,30.0,Rwanda,100.0,8473429.5
+44000-P148927,192,Transformation of Agriculture Sector Program Phase 3  PforR,2014-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,28244765.0,Climate adaptation,30.0,Rwanda,100.0,8473429.5
+44000-P148927,192,Transformation of Agriculture Sector Program Phase 3  PforR,2014-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,28244765.0,Climate change,60.0,Rwanda,100.0,16946859.0
+44000-P172594,193,Rwanda - Energy Access and Quality Improvement Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1663477.0,Climate change,38.0,Rwanda,100.0,632121.26
+44000-P172594,193,Rwanda - Energy Access and Quality Improvement Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1663477.0,Climate mitigation,31.0,Rwanda,100.0,515677.87
+44000-P172594,193,Rwanda - Energy Access and Quality Improvement Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1663477.0,Gender,63.0,Rwanda,100.0,1047990.51
+44000-P172594,193,Rwanda - Energy Access and Quality Improvement Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1663477.0,Climate adaptation,7.0,Rwanda,100.0,116443.39000000001
+44000-P175273,194,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1108303.0,Gender,77.0,Rwanda,100.0,853393.31
+44000-P175273,194,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1108303.0,Climate change,6.0,Rwanda,100.0,66498.18
+44000-P175273,194,Access to Finance for Recovery and Resilience Project,2022-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1108303.0,Climate adaptation,6.0,Rwanda,100.0,66498.18
+44000-P161876,195,Transformation of Agriculture Sector Program 4 Phase 2,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7663337.0,Climate mitigation,15.0,Rwanda,100.0,1149500.55
+44000-P161876,195,Transformation of Agriculture Sector Program 4 Phase 2,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7663337.0,Climate adaptation,16.0,Rwanda,100.0,1226133.92
+44000-P161876,195,Transformation of Agriculture Sector Program 4 Phase 2,2020-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,7663337.0,Climate change,31.0,Rwanda,100.0,2375634.47
+44000-P112712,196,Second Emergency Demobilization and Reintegration Project,2015-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,12394.0,Gender,10.0,Rwanda,100.0,1239.4
+44000-P178161,197,Volcanoes Community Resilience Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3267532.0,Climate change,46.0,Rwanda,100.0,1503064.72
+44000-P178161,197,Volcanoes Community Resilience Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3267532.0,Climate adaptation,31.0,Rwanda,100.0,1012934.92
+44000-P178161,197,Volcanoes Community Resilience Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3267532.0,Climate mitigation,15.0,Rwanda,100.0,490129.8
+44000-P178161,197,Volcanoes Community Resilience Project,2024-02-29T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3267532.0,Gender,33.0,Rwanda,100.0,1078285.56
+44000-P112712,198,Second Emergency Demobilization and Reintegration Project,2013-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,104938.0,Gender,10.0,Rwanda,100.0,10493.800000000001
+44000-P162646,199,Strengthening Social Protection Project,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15120740.0,Climate mitigation,10.0,Rwanda,100.0,1512074.0
+44000-P162646,199,Strengthening Social Protection Project,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15120740.0,Climate adaptation,18.0,Rwanda,100.0,2721733.1999999997
+44000-P162646,199,Strengthening Social Protection Project,2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,15120740.0,Climate change,28.0,Rwanda,100.0,4233807.2
+44000-P171462,200,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3140460.0,Climate change,43.0,Rwanda,100.0,1350397.8
+44000-P171462,200,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3140460.0,Gender,87.0,Rwanda,100.0,2732200.2
+44000-P171462,200,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3140460.0,Climate mitigation,13.0,Rwanda,100.0,408259.8
+44000-P171462,200,Commercialization and De-Risking for Agricultural Transformation Project,2023-10-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3140460.0,Climate adaptation,30.0,Rwanda,100.0,942138.0
+44000-P112712,201,Second Emergency Demobilization and Reintegration Project,2016-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,384909.0,Gender,10.0,Rwanda,100.0,38490.9
+44000-P165017,202,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1260372.0,Climate change,77.0,Rwanda,100.0,970486.4400000001
+44000-P165017,202,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1260372.0,Gender,44.0,Rwanda,100.0,554563.68
+44000-P165017,202,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1260372.0,Climate adaptation,37.0,Rwanda,100.0,466337.64
+44000-P165017,202,Second Rwanda Urban Development Project,2022-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1260372.0,Climate mitigation,40.0,Rwanda,100.0,504148.80000000005
+44000-P162646,203,Strengthening Social Protection Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,-3199.0,Climate mitigation,10.0,Rwanda,100.0,-319.90000000000003
+44000-P162646,203,Strengthening Social Protection Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,-3199.0,Climate adaptation,18.0,Rwanda,100.0,-575.8199999999999
+44000-P162646,203,Strengthening Social Protection Project,2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,-3199.0,Climate change,28.0,Rwanda,100.0,-895.7200000000001
+44000-P171462,204,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1732262.0,Climate change,43.0,Rwanda,100.0,744872.66
+44000-P171462,204,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1732262.0,Gender,87.0,Rwanda,100.0,1507067.94
+44000-P171462,204,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1732262.0,Climate mitigation,13.0,Rwanda,100.0,225194.06
+44000-P171462,204,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1732262.0,Climate adaptation,30.0,Rwanda,100.0,519678.6
+44000-P177492,205,Social Protection Transformation Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,560002.0,Climate change,12.0,Rwanda,100.0,67200.23999999999
+44000-P177492,205,Social Protection Transformation Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,560002.0,Climate adaptation,12.0,Rwanda,100.0,67200.23999999999
+44000-P177492,205,Social Protection Transformation Project,2024-01-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,560002.0,Gender,22.0,Rwanda,100.0,123200.44
+44000-P112712,206,Second Emergency Demobilization and Reintegration Project,2015-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,434313.0,Gender,10.0,Rwanda,100.0,43431.3
+44000-P165017,207,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate change,77.0,Rwanda,100.0,1540000.0
+44000-P165017,207,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Gender,44.0,Rwanda,100.0,880000.0
+44000-P165017,207,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate adaptation,37.0,Rwanda,100.0,740000.0
+44000-P165017,207,Second Rwanda Urban Development Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2000000.0,Climate mitigation,40.0,Rwanda,100.0,800000.0
+44000-P171462,208,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1729030.0,Climate change,43.0,Rwanda,100.0,743482.9
+44000-P171462,208,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1729030.0,Gender,87.0,Rwanda,100.0,1504256.1
+44000-P171462,208,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1729030.0,Climate mitigation,13.0,Rwanda,100.0,224773.9
+44000-P171462,208,Commercialization and De-Risking for Agricultural Transformation Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1729030.0,Climate adaptation,30.0,Rwanda,100.0,518709.0
+44000-P160488,209,"Lake Victoria Transport Program - SOP1, Rwanda",2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,816617.0,Climate change,10.0,Rwanda,100.0,81661.70000000001
+44000-P160488,209,"Lake Victoria Transport Program - SOP1, Rwanda",2019-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,816617.0,Climate adaptation,10.0,Rwanda,100.0,81661.70000000001
+44000-P175273,210,Access to Finance for Recovery and Resilience Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1021931.0,Gender,77.0,Rwanda,100.0,786886.87
+44000-P175273,210,Access to Finance for Recovery and Resilience Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1021931.0,Climate change,6.0,Rwanda,100.0,61315.86
+44000-P175273,210,Access to Finance for Recovery and Resilience Project,2023-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1021931.0,Climate adaptation,6.0,Rwanda,100.0,61315.86
+44000-P168551,211,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,388591.0,Gender,37.0,Rwanda,100.0,143778.67
+44000-P168551,211,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,388591.0,Climate mitigation,5.0,Rwanda,100.0,19429.55
+44000-P168551,211,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,388591.0,Climate change,19.0,Rwanda,100.0,73832.29
+44000-P168551,211,Rwanda Quality Basic Education for Human Capital Development Project,2023-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,388591.0,Climate adaptation,15.0,Rwanda,100.0,58288.65
+44000-P177492,212,Social Protection Transformation Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9230172.0,Climate change,12.0,Rwanda,100.0,1107620.64
+44000-P177492,212,Social Protection Transformation Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9230172.0,Climate adaptation,12.0,Rwanda,100.0,1107620.64
+44000-P177492,212,Social Protection Transformation Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9230172.0,Gender,22.0,Rwanda,100.0,2030637.84
+44000-P162671,213,Rwanda Energy Sector Development Policy Loan,2017-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,125308920.0,Climate mitigation,56.0,Rwanda,100.0,70172995.2
+44000-P162671,213,Rwanda Energy Sector Development Policy Loan,2017-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,125308920.0,Climate change,56.0,Rwanda,100.0,70172995.2
+44000-P172594,214,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9302602.0,Climate change,38.0,Rwanda,100.0,3534988.7600000002
+44000-P172594,214,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9302602.0,Climate mitigation,31.0,Rwanda,100.0,2883806.62
+44000-P172594,214,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9302602.0,Gender,63.0,Rwanda,100.0,5860639.26
+44000-P172594,214,Rwanda - Energy Access and Quality Improvement Project,2021-09-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,9302602.0,Climate adaptation,7.0,Rwanda,100.0,651182.14
+44000-P160488,215,"Lake Victoria Transport Program - SOP1, Rwanda",2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2103822.0,Climate change,10.0,Rwanda,100.0,210382.2
+44000-P160488,215,"Lake Victoria Transport Program - SOP1, Rwanda",2023-02-28T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2103822.0,Climate adaptation,10.0,Rwanda,100.0,210382.2
+44000-P165017,216,Second Rwanda Urban Development Project,2021-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,45402.0,Climate change,77.0,Rwanda,100.0,34959.54
+44000-P165017,216,Second Rwanda Urban Development Project,2021-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,45402.0,Gender,44.0,Rwanda,100.0,19976.88
+44000-P165017,216,Second Rwanda Urban Development Project,2021-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,45402.0,Climate adaptation,37.0,Rwanda,100.0,16798.74
+44000-P165017,216,Second Rwanda Urban Development Project,2021-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,45402.0,Climate mitigation,40.0,Rwanda,100.0,18160.8
+44000-P112712,217,Second Emergency Demobilization and Reintegration Project,2011-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,-1248266.0,Gender,10.0,Rwanda,100.0,-124826.6
+44000-P165017,218,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2310453.0,Climate change,77.0,Rwanda,100.0,1779048.81
+44000-P165017,218,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2310453.0,Gender,44.0,Rwanda,100.0,1016599.32
+44000-P165017,218,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2310453.0,Climate adaptation,37.0,Rwanda,100.0,854867.61
+44000-P165017,218,Second Rwanda Urban Development Project,2021-08-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2310453.0,Climate mitigation,40.0,Rwanda,100.0,924181.2000000001
+44000-P160488,219,"Lake Victoria Transport Program - SOP1, Rwanda",2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1720642.0,Climate change,10.0,Rwanda,100.0,172064.2
+44000-P160488,219,"Lake Victoria Transport Program - SOP1, Rwanda",2021-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,1720642.0,Climate adaptation,10.0,Rwanda,100.0,172064.2
+44000-P112712,220,Second Emergency Demobilization and Reintegration Project,2016-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,184571.0,Gender,10.0,Rwanda,100.0,18457.100000000002
+44000-P160488,221,"Lake Victoria Transport Program - SOP1, Rwanda",2020-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3208845.0,Climate change,10.0,Rwanda,100.0,320884.5
+44000-P160488,221,"Lake Victoria Transport Program - SOP1, Rwanda",2020-12-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3208845.0,Climate adaptation,10.0,Rwanda,100.0,320884.5
+44000-P173373,222,Digital Acceleration Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2420117.0,Climate adaptation,5.0,Rwanda,100.0,121005.85
+44000-P173373,222,Digital Acceleration Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2420117.0,Climate change,15.0,Rwanda,100.0,363017.55
+44000-P173373,222,Digital Acceleration Project,2023-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2420117.0,Climate mitigation,9.0,Rwanda,100.0,217810.53
+44000-P148927,223,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,519365.0,Climate mitigation,30.0,Rwanda,100.0,155809.5
+44000-P148927,223,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,519365.0,Climate adaptation,30.0,Rwanda,100.0,155809.5
+44000-P148927,223,Transformation of Agriculture Sector Program Phase 3  PforR,2017-05-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,519365.0,Climate change,60.0,Rwanda,100.0,311619.0
+44000-P171462,224,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,615337.0,Climate change,43.0,Rwanda,100.0,264594.91
+44000-P171462,224,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,615337.0,Gender,87.0,Rwanda,100.0,535343.19
+44000-P171462,224,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,615337.0,Climate mitigation,13.0,Rwanda,100.0,79993.81
+44000-P171462,224,Commercialization and De-Risking for Agricultural Transformation Project,2023-03-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,615337.0,Climate adaptation,30.0,Rwanda,100.0,184601.1
+44000-P175273,225,Access to Finance for Recovery and Resilience Project,2022-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2926740.0,Gender,77.0,Rwanda,100.0,2253589.8000000003
+44000-P175273,225,Access to Finance for Recovery and Resilience Project,2022-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2926740.0,Climate change,6.0,Rwanda,100.0,175604.4
+44000-P175273,225,Access to Finance for Recovery and Resilience Project,2022-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,2926740.0,Climate adaptation,6.0,Rwanda,100.0,175604.4
+44000-P165017,226,Second Rwanda Urban Development Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,596453.0,Climate change,77.0,Rwanda,100.0,459268.81
+44000-P165017,226,Second Rwanda Urban Development Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,596453.0,Gender,44.0,Rwanda,100.0,262439.32
+44000-P165017,226,Second Rwanda Urban Development Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,596453.0,Climate adaptation,37.0,Rwanda,100.0,220687.61
+44000-P165017,226,Second Rwanda Urban Development Project,2024-04-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,596453.0,Climate mitigation,40.0,Rwanda,100.0,238581.2
+44000-P175273,227,Access to Finance for Recovery and Resilience Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5466718.0,Gender,77.0,Rwanda,100.0,4209372.86
+44000-P175273,227,Access to Finance for Recovery and Resilience Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5466718.0,Climate change,6.0,Rwanda,100.0,328003.08
+44000-P175273,227,Access to Finance for Recovery and Resilience Project,2022-11-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,5466718.0,Climate adaptation,6.0,Rwanda,100.0,328003.08
+44000-P161876,228,Transformation of Agriculture Sector Program 4 Phase 2,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3965645.0,Climate mitigation,15.0,Rwanda,100.0,594846.75
+44000-P161876,228,Transformation of Agriculture Sector Program 4 Phase 2,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3965645.0,Climate adaptation,16.0,Rwanda,100.0,634503.2000000001
+44000-P161876,228,Transformation of Agriculture Sector Program 4 Phase 2,2021-07-31T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3965645.0,Climate change,31.0,Rwanda,100.0,1229349.95
+44000-P164807,229,Rwanda Public Finance Management Reform Project,2022-06-30T00:00:00Z,Disbursement,Aid loan excluding debt reorganisation,3975065.0,Gender,54.0,Rwanda,100.0,2146535.1
