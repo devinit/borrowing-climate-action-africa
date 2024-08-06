@@ -87,6 +87,9 @@ keep = c(original_names,
 )
 
 out_crs = subset(crs, `Climate label`!="None",select=keep)
+out_crs_wb = subset(crs, donor_name == 'International Development Association')
 
 fwrite(out_crs,
        paste0("data/crs_",YEAR,"_automated.csv"))
+
+fwrite(out_crs_wb, paste0("data/crs_wb_",YEAR,"_automated.csv"))
